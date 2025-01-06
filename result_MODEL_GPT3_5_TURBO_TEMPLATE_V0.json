@@ -1,0 +1,502 @@
+[
+  {
+    "Target Word": "day",
+    "True Label": "1",
+    "LLM Response": "The target word is \"day\".\n\nIt seems that the word \"day\" has a different intended sense in each sentence. In the first sentence, \"day\" refers to a specific time period when someone was a successful pianist, while in the second sentence, \"day\" refers to a historical era in the past.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "grip",
+    "True Label": "1",
+    "LLM Response": "The word \"grip\" has a different meaning in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "absence",
+    "True Label": "1",
+    "LLM Response": "The target word is \"absence\". In Sentence 1, \"absence\" refers to the lack of something (explanation), while in Sentence 2, \"absence\" refers to the state of being away or not present. Therefore, the intended sense of \"absence\" is different in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "touch",
+    "True Label": "0",
+    "LLM Response": "The target word is \"touch\".\n\nThese two sentences have different intended senses. \nIn the first sentence, \"touch\" refers to physical contact or sensation. \nIn the second sentence, \"touch\" is used metaphorically to refer to a skill or ability in making something better. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "follow",
+    "True Label": "0",
+    "LLM Response": "The target word \"follow\" has a different intended sense in the two sentences. In the first sentence, \"follow\" means adhering to or obeying, while in the second sentence, \"follow\" means moving along or going after. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "silence",
+    "True Label": "0",
+    "LLM Response": "The target word is \"silence.\"\n\nThe intended sense of \"silence\" in both sentences is different. In the first sentence, \"silence\" is referring to the absence of sound for sleeping, while in the second sentence, \"silence\" is referring to a request or signal for quietness.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "break",
+    "True Label": "0",
+    "LLM Response": "The target word is \"break.\"\n\nThese sentences have different meanings for the word \"break.\" In the first sentence, \"break\" means to set a new record or achieve a notable feat, while in the second sentence, \"break\" means to suddenly interrupt or disturb. \n\nLabel. 0"
+  },
+  {
+    "Target Word": "now",
+    "True Label": "1",
+    "LLM Response": "The target word is \"now.\"\n\nThe intended sense of \"now\" is the same in both sentences: it refers to the present time.\n\nLabel. 1"
+  },
+  {
+    "Target Word": "conflict",
+    "True Label": "0",
+    "LLM Response": "The target word is \"conflict.\"\n\nThese two sentences have different intended senses. In the first sentence, \"conflict\" refers to a disagreement or fight between two opposing parties, while in the second sentence, \"conflict\" refers to a struggle between loyalties or beliefs.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "erase",
+    "True Label": "0",
+    "LLM Response": "The target word is \"erase\".\n\nThese two sentences have different meanings for the word \"erase\". In the first sentence, \"erase\" means to remove or wipe out, while in the second sentence, \"erase\" means to eliminate or kill.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "head",
+    "True Label": "0",
+    "LLM Response": "The target word is \"head.\"\n\nIn Sentence 1, \"head\" refers to a bathroom or toilet, while in Sentence 2, \"head\" refers to someone's mind or thoughts.\n\nGiven the different meanings of \"head\" in the two sentences, the intended sense is different.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "connect",
+    "True Label": "0",
+    "LLM Response": "The word \"connect\" has different intended senses in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "deal",
+    "True Label": "1",
+    "LLM Response": "(0) The intended sense of \"deal\" is different in the two sentences.\nLabel."
+  },
+  {
+    "Target Word": "take",
+    "True Label": "0",
+    "LLM Response": "These sentences have different intended meanings for the word \"take\".\n\nLabel. 0"
+  },
+  {
+    "Target Word": "unravel",
+    "True Label": "1",
+    "LLM Response": "The target word is \"unravel\".\n\nThese sentences have different meanings as in the first sentence it's about unraveling the tablecloth by playing with the seam, while in the second sentence it's about a ball of wool being unravelled after being played with by a cat.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "break",
+    "True Label": "0",
+    "LLM Response": "The word \"break\" has a different intended sense in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "raise",
+    "True Label": "1",
+    "LLM Response": "Both sentences use the word \"raise\" but they have different meanings. In the first sentence, \"raise\" refers to nurturing or bringing up a family, while in the second sentence, \"raise\" means to elevate or promote someone to a higher position, such as an office. So, the intended sense of \"raise\" is different in each sentence.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "pay",
+    "True Label": "1",
+    "LLM Response": "The target word is \"pay.\"\n\nSentence 1: Refers to the amount of money given as payment.\nSentence 2: Refers to the act of focusing or giving attention.\n\nThe intended senses are different.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "develop",
+    "True Label": "0",
+    "LLM Response": "(0)"
+  },
+  {
+    "Target Word": "drink",
+    "True Label": "0",
+    "LLM Response": "These two sentences have different meanings for the word \"drink\". In the first sentence, \"drink\" refers to the cause of his downfall, while in the second sentence, \"drink\" refers to a beverage. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "tell",
+    "True Label": "1",
+    "LLM Response": "The target word is \"tell.\"\n\nIntended Sense: To communicate information.\n\nThe intended sense of \"tell\" is different in the two sentences, so the label is 0."
+  },
+  {
+    "Target Word": "evil",
+    "True Label": "1",
+    "LLM Response": "The target word is \"evil.\"\n\nThese two sentences have different intended meanings for the word \"evil.\" In the first sentence, \"evil\" refers to something malevolent or morally wrong, while in the second sentence, \"evils\" is slang for dirty looks or a bad attitude.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "conflict",
+    "True Label": "0",
+    "LLM Response": "The target word is \"conflict\". In Sentence 1, it refers to a disagreement or clash between two parties (Republicans and Democrats). In Sentence 2, it refers to a situation where a person's loyalties or interests are incompatible. The intended sense of \"conflict\" is different in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "school",
+    "True Label": "0",
+    "LLM Response": "The target word is \"school\".\n\nIntended sense in Sentence 1: educational institution\nIntended sense in Sentence 2: group of fish\n\nThe intended senses of \"school\" in the two sentences are different.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "purchase",
+    "True Label": "1",
+    "LLM Response": "The target word is \"purchase.\"\n\nThe intended sense of \"purchase\" is not the same in both sentences. In the first sentence, it means to buy something, while in the second sentence, it also means to buy something but in a broader context (land or house).\n\nLabel. 0"
+  },
+  {
+    "Target Word": "point",
+    "True Label": "0",
+    "LLM Response": "The target word is \"point.\"\n\nThe intended sense of \"point\" in Sentence 1 refers to a specific location or direction indicated on a compass. In Sentence 2, \"point\" is most likely referring to a sharp or tapered end, or a specific item or object of interest.\n\nTherefore, the intended sense of \"point\" is different in the two sentences. \n\nLabel. 0"
+  },
+  {
+    "Target Word": "begin",
+    "True Label": "0",
+    "LLM Response": "The intended sense of \"begin\" is different in the two sentences. In the first sentence, \"begin\" is used in the context of starting or lighting a cigar, while in the second sentence, \"begin\" is used in the context of the starting point or origin of the property. Therefore, the meaning is not the same. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "head",
+    "True Label": "1",
+    "LLM Response": "The target word is \"head\".\n\nThe intended sense of \"head\" in both sentences refers to the mind or thoughts. Therefore, the meaning is the same.\n\nLabel. (1)"
+  },
+  {
+    "Target Word": "play",
+    "True Label": "0",
+    "LLM Response": "The target word is \"played\".\n\nLabel."
+  },
+  {
+    "Target Word": "start",
+    "True Label": "1",
+    "LLM Response": "(1)"
+  },
+  {
+    "Target Word": "baby",
+    "True Label": "0",
+    "LLM Response": "It seems that the target word \"baby\" has different meanings in the two sentences provided. In the first sentence, \"baby\" refers to a child that is expected to be born, while in the second sentence, \"baby\" refers to a title or a person who is part of the Supreme Court. Therefore, the intended sense of the word \"baby\" is different in each sentence.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "throw",
+    "True Label": "0",
+    "LLM Response": "The word \"throw\" has different meanings in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "theater",
+    "True Label": "1",
+    "LLM Response": "The target word is \"theater\".\n\nThe intended sense of \"theater\" is different in the two sentences. In the first sentence, it refers to a specific geographical region where military operations took place (Pacific theater during the war), while in the second sentence, it refers to a place of military operations (Vietnam theater).\n\nLabel: 0"
+  },
+  {
+    "Target Word": "get",
+    "True Label": "0",
+    "LLM Response": "The target word is \"get\". In the first sentence, \"get\" means to purchase or obtain something. In the second sentence, \"get\" means to understand or acquire knowledge of something. The intended sense of \"get\" is different in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "hit",
+    "True Label": "1",
+    "LLM Response": "The target word is \"hit.\"\n\nThese two sentences have different intended senses for the word \"hit.\" The first sentence uses \"hit\" to mean arrival, while the second sentence uses \"hit\" to mean use or interact with. \n\nLabel. 0"
+  },
+  {
+    "Target Word": "development",
+    "True Label": "0",
+    "LLM Response": "It seems like the target word is \"development.\" In the first sentence, it refers to the process of developing and printing pictures, while in the second sentence, it refers to a new advancement or progress. The intended sense of \"development\" is not the same in both sentences. Different meanings. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "bum",
+    "True Label": "1",
+    "LLM Response": "The target word is \"bum\". In sentence 1, \"bum\" is used to describe someone who is incompetent, while in sentence 2, \"bum\" is used to mean a disreputable or irritating person. Therefore, the intended sense of \"bum\" is different in the two sentences. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "shade",
+    "True Label": "1",
+    "LLM Response": "The target word is \"shade\".\n\nThe intended sense of \"shade\" in both sentences is different.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "match",
+    "True Label": "0",
+    "LLM Response": "The target word is \"match.\"\n\nThese sentences have different meanings for the word \"match.\"\n\nLabel: 0"
+  },
+  {
+    "Target Word": "treat",
+    "True Label": "0",
+    "LLM Response": "The word \"treat\" has different intended senses in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "academy",
+    "True Label": "0",
+    "LLM Response": "The target word is \"Academy\".\n\nLabel. 0"
+  },
+  {
+    "Target Word": "emission",
+    "True Label": "0",
+    "LLM Response": "The target word is \"emission\". \n\nLabel. 0"
+  },
+  {
+    "Target Word": "return",
+    "True Label": "0",
+    "LLM Response": "These two sentences use the word \"return\" in different senses. In Sentence 1, \"return\" refers to the season of spring coming back. In Sentence 2, \"return\" is related to a financial term, indicating the percentage of profit or loss on an investment. Therefore, the intended sense of \"return\" is different in each sentence. Label. 0"
+  },
+  {
+    "Target Word": "practice",
+    "True Label": "1",
+    "LLM Response": "The target word is \"practice.\"\n\nThe intended sense of \"practice\" in both sentences is the same, referring to the act of repeating an action to improve one's skills or performance. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "give",
+    "True Label": "0",
+    "LLM Response": "The word \"give\" has different meanings in the two sentences. In the first sentence, \"give\" means to grant or allow, while in the second sentence, \"give\" means to collapse or yield. So, the intended sense is different.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "interrupt",
+    "True Label": "0",
+    "LLM Response": "The target word is \"interrupt\".\n\nThese two sentences have different meanings for the word \"interrupt\".\n\nLabel. 0"
+  },
+  {
+    "Target Word": "block",
+    "True Label": "1",
+    "LLM Response": "The word \"block\" has different meanings in the two sentences.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "break",
+    "True Label": "0",
+    "LLM Response": "To break a circuit means to interrupt the flow of electricity by opening a pathway. On the other hand, to break a promise means to fail to keep a commitment made to someone. Since the word \"break\" is used in different contexts with different meanings in the two sentences, the intended senses are different.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "approach",
+    "True Label": "1",
+    "LLM Response": "The intended sense of \"approach\" is different in the two sentences.\nLabel. 0"
+  },
+  {
+    "Target Word": "thing",
+    "True Label": "0",
+    "LLM Response": "The target word is \"thing\".\n\nThe intended sense of \"thing\" in both sentences refers to an object or an unspecified item. Thus, the meaning is the same.\n\nLabel. 1"
+  },
+  {
+    "Target Word": "shape",
+    "True Label": "0",
+    "LLM Response": "These two sentences have the same intended sense for the word \"shape.\" \n\nLabel. 1"
+  },
+  {
+    "Target Word": "beat",
+    "True Label": "0",
+    "LLM Response": "The target word is \"beats\".\n\nThese sentences do not have the same intended sense since \"beat one's breast\" means to express deep sorrow or remorse by gesture, while \"This beats me!\" means to be confused or unable to understand something.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "buy",
+    "True Label": "0",
+    "LLM Response": "The target word is \"buy\".\nThe intended sense of \"buy\" in Sentence 1 is to purchase a gift, while in Sentence 2 it means to pay for and acquire something in exchange. The sense is different.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "mark",
+    "True Label": "0",
+    "LLM Response": "The word \"mark\" has different intended senses in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "top",
+    "True Label": "0",
+    "LLM Response": "These two sentences have the target word \"top\" but with different intended senses. \nLabel. 0"
+  },
+  {
+    "Target Word": "throat",
+    "True Label": "1",
+    "LLM Response": "The target word is \"throat\".\n\nThese sentences have different intended senses as \"throat\" refers to a part of a chimney in the first sentence, while it refers to a part of a vase in the second sentence.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "source",
+    "True Label": "0",
+    "LLM Response": "The target word is \"source.\"\n\nThese two sentences have different intended meanings for the word \"source.\" In the first sentence, \"source\" refers to the origin or starting point of the Ohio River. In the second sentence, \"source\" refers to the origin or where the quotation came from.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "beat",
+    "True Label": "1",
+    "LLM Response": "The target word is \"beat\".\n\nThe intended sense of \"beat\" in both sentences is the same, as it means to whisk or mix vigorously in both cases. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "use",
+    "True Label": "0",
+    "LLM Response": "The target word is \"use\".\nThe intended sense of \"use\" is different in the two sentences.\nLabel. 0"
+  },
+  {
+    "Target Word": "wildness",
+    "True Label": "1",
+    "LLM Response": "The target word is \"wildness.\"\n\nThese sentences have the same intended sense as they both refer to a characteristic of being wild or untamed.\n\nLabel. 1"
+  },
+  {
+    "Target Word": "clearance",
+    "True Label": "1",
+    "LLM Response": "The target word is \"clearance.\"\n\nIntended sense in Sentence 1: Permission to land.\nIntended sense in Sentence 2: Permission from air traffic control before taking off.\n\nThe intended senses of \"clearance\" in the two sentences are different.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "term",
+    "True Label": "1",
+    "LLM Response": "The target word \"term\" has different meanings in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "leave",
+    "True Label": "1",
+    "LLM Response": "The target word is \"leave.\"\n\nThese two sentences have different intended senses for the word \"leave.\" In the first sentence, \"leave\" means to not disturb or bother, while in the second sentence, \"leave\" means to remain or deposit. \n\nLabel. 0"
+  },
+  {
+    "Target Word": "drive",
+    "True Label": "0",
+    "LLM Response": "Drive\n\nLabel. 0"
+  },
+  {
+    "Target Word": "keep",
+    "True Label": "1",
+    "LLM Response": "The target word is \"Keep\", and in both sentences, it is used in the sense of maintaining or controlling something. So, the intended sense of \"Keep\" is the same in both sentences.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "keep",
+    "True Label": "1",
+    "LLM Response": "The target word is \"keep.\" In Sentence 1, \"keep\" means storing or retaining something for later use. In Sentence 2, \"keep\" also means to store or maintain something for future use. In both sentences, \"keep\" is used in the sense of retaining or storing items. Therefore, the intended sense of \"keep\" is the same in both sentences.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "stand",
+    "True Label": "0",
+    "LLM Response": "The target word is \"stand\".\n\nIn Sentence 1, \"stand\" means one's position or opinion on a particular issue (metaphorical sense).\nIn Sentence 2, \"standing\" is part of the phrase \"standing water\", which refers to stagnant water (literal sense).\n\nTherefore, the intended sense of the word \"stand\" is different in the two sentences.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "talk",
+    "True Label": "1",
+    "LLM Response": "The target word is \"talk\".\n\nIntended sense in Sentence 1: communicate with gestures and signs\nIntended sense in Sentence 2: form words or babble\n\nThe intended senses of the word \"talk\" in the two sentences are different.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "see",
+    "True Label": "1",
+    "LLM Response": "The target word is \"see\".\n\nIntended sense: (0) - different meaning\n\nLabel."
+  },
+  {
+    "Target Word": "range",
+    "True Label": "1",
+    "LLM Response": "The word \"range\" has a different intended sense in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "luck",
+    "True Label": "1",
+    "LLM Response": "The target word is \"luck\". In sentence 1, \"bad luck\" refers to unfortunate events, while in sentence 2, \"my luck\" refers to good fortune or chance. Therefore, the intended sense of \"luck\" is different in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "see",
+    "True Label": "0",
+    "LLM Response": "The target word is \"see.\"\n\nThese two sentences have different intended meanings for the word \"see.\" In the first sentence, \"see\" means to observe or examine something, while in the second sentence, \"see\" means to make arrangements or inquire about something.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "work",
+    "True Label": "1",
+    "LLM Response": "The target word is \"worked.\"\n\nIntended sense: employment or doing a job\n\nThese sentences have a different intended sense for the word \"worked.\"\n\nLabel. 0"
+  },
+  {
+    "Target Word": "move",
+    "True Label": "0",
+    "LLM Response": "The intended sense of \"move\" is different in the two sentences because in the first sentence it refers to moving in a physical manner while in the second sentence it refers to physically relocating an object. Hence, the intended sense is not the same.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "use",
+    "True Label": "1",
+    "LLM Response": "The target word is \"use\".\n\nThe intended sense of \"use\" in Sentence 1 is related to utilizing something for a particular purpose, while in Sentence 2 it refers to the language spoken at home.\n\nTherefore, the intended sense of \"use\" is different in the two sentences.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "feel",
+    "True Label": "1",
+    "LLM Response": "The target word is \"feel\".\n\nThese sentences have different intended senses as \"feel\" in the first sentence refers to having an understanding or appreciation for music, while in the second sentence it refers to having a sensitivity or knack for animals.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "fall",
+    "True Label": "1",
+    "LLM Response": "The target word is \"fall\" and the intended sense is different in the two sentences. In the first sentence, \"fall\" is used as becoming a victim or being deceived, while in the second sentence, \"fall\" is used as losing popularity or support.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "process",
+    "True Label": "0",
+    "LLM Response": "The target word is \"process\". In Sentence 1, \"process\" means to work with or shape iron. In Sentence 2, \"process\" means to deal with or handle applicants. The intended senses of \"process\" in the two sentences are different.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "carry",
+    "True Label": "1",
+    "LLM Response": "The target word is \"carry.\"\n\nThese sentences have different intended senses. In the first sentence, \"carry\" means to transport or move something, while in the second sentence, \"carry\" means to hold or support something while moving. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "check",
+    "True Label": "1",
+    "LLM Response": "The word \"check\" has different meanings in the two sentences:\n- In sentence 1, \"check\" means to investigate or verify.\n- In sentence 2, \"check\" means to confirm or examine.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "session",
+    "True Label": "1",
+    "LLM Response": "These sentences refer to different meanings of the word \"session\".\n\nLabel. 0"
+  },
+  {
+    "Target Word": "empty",
+    "True Label": "1",
+    "LLM Response": "The word \"empty\" in both sentences has the same intended sense.\nLabel. 1"
+  },
+  {
+    "Target Word": "operation",
+    "True Label": "0",
+    "LLM Response": "The target word is \"operation.\"\n\nAlthough the word \"operation\" is used in both sentences, the intended sense is different. In the first sentence, \"operation\" refers to a business entity that functions in multiple countries, while in the second sentence, \"operation\" refers to a specific action or process being carried out. Therefore, the meaning is different (0).\n\nLabel: 0"
+  },
+  {
+    "Target Word": "heart",
+    "True Label": "0",
+    "LLM Response": "These two sentences use the word \"heart\" in different senses. In the first sentence, \"heart\" is used metaphorically to refer to the essence or core of something, while in the second sentence, \"heart\" is used to describe a physical location or the center of an activity. So, the intended sense of \"heart\" is not the same in both sentences.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "play",
+    "True Label": "0",
+    "LLM Response": "The target word is \"play\".\n\nIntended sense in Sentence 1: Engaging in buying and selling stocks or securities.\nIntended sense in Sentence 2: Being involved in a game or activity.\n\nThe intended sense of \"play\" is different in both sentences.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "speech",
+    "True Label": "1",
+    "LLM Response": "The target word is \"speech.\"\nIntended sense: the way in which someone speaks.\nLabel. 0"
+  },
+  {
+    "Target Word": "make",
+    "True Label": "0",
+    "LLM Response": "The target word is \"made\".\n\nThe intended sense of \"made\" in Sentence 1 is to reach or arrive at a destination, while in Sentence 2, the intended sense of \"made\" is to be appointed or selected for a position.\n\nTherefore, the intended sense of \"made\" is different in the two sentences.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "point",
+    "True Label": "0",
+    "LLM Response": "The target word is \"point\".\n\nSentence 1: He missed the point of the joke. \nSentence 2: The cannibal's teeth were filed to sharp points.\n\nThe intended sense of \"point\" is different in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "post",
+    "True Label": "0",
+    "LLM Response": "The target word is \"post\". In this case, the intended sense is different between the two sentences. In the first sentence, \"post\" refers to mail or letters being delivered, while in the second sentence, \"post\" refers to mail that has been received. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "unit",
+    "True Label": "1",
+    "LLM Response": "Based on the context of the two sentences:\n\nSentence 1: The word is a basic linguistic unit.\nSentence 2: The reduced the number of units and installations.\n\nThe word \"unit\" is used in different senses in the two sentences. In Sentence 1, \"unit\" refers to a linguistic unit, while in Sentence 2, \"unit\" refers to a physical entity. Therefore, the intended sense of \"unit\" is different in the two sentences.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "notice",
+    "True Label": "1",
+    "LLM Response": "The target word is \"notice\".\n\nThese two sentences have different meanings for the word \"notice\". In the first sentence, \"notice\" refers to information or warning, while in the second sentence, \"notice\" refers to a written or printed announcement.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "size",
+    "True Label": "1",
+    "LLM Response": "The word \"size\" has a different intended sense in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "set",
+    "True Label": "1",
+    "LLM Response": "The word \"set\" has a different intended sense in each sentence.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "head",
+    "True Label": "1",
+    "LLM Response": "Since both sentences mention the same target word \"head\" in the context of counting cattle, the intended sense is the same.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "get",
+    "True Label": "0",
+    "LLM Response": "The target word is \"get.\"\n\nIn both sentences, the word \"get\" is used in the sense of receiving or obtaining something. So, the intended sense of the word \"get\" is the same in both sentences.\n\nLabel. (1)"
+  },
+  {
+    "Target Word": "admit",
+    "True Label": "1",
+    "LLM Response": "The word \"admit\" has different meanings in the two sentences.\nLabel. 0"
+  },
+  {
+    "Target Word": "hold",
+    "True Label": "1",
+    "LLM Response": "These two sentences have different intended meanings for the word \"held\". In the first sentence, \"held\" means to remain valid or accurate, while in the second sentence, \"held\" means to stay stable or consistent. Therefore, the intended senses are not the same.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "pain",
+    "True Label": "0",
+    "LLM Response": "The word \"pain\" has different intended senses in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "krona",
+    "True Label": "1",
+    "LLM Response": "The target word is \"krona.\"\n\nThese sentences are referring to different meanings of the word \"krona.\" In the first sentence, \"krona\" is used as a unit of currency (currency denomination), while in the second sentence, \"krona\" is used to denote the exchange rate of the currency. Therefore, the intended sense of \"krona\" is different in the two sentences.\n\nLabel. 0"
+  },
+  {
+    "Target Word": "tomorrow",
+    "True Label": "1",
+    "LLM Response": "These two sentences have different meanings. In the first sentence, the word \"tomorrow\" refers to the future in general, while in the second sentence, \"tomorrow\" seems to refer to the specific day following today.\n\nLabel: 0"
+  }
+]

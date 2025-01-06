@@ -1,0 +1,502 @@
+[
+  {
+    "Target Word": "day",
+    "True Label": "1",
+    "LLM Response": "The target word is: day\n\nThe word \"day\" in Sentence 1 refers to a particular period of time in someone's life, while in sentence 2 \"day\" refers to a historical epoch or time period.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "grip",
+    "True Label": "1",
+    "LLM Response": "Target word: grip\n\nThe intended sense of the word \"grip\" in the first sentence refers to the handle of a sword. In the second sentence, \"grip\" refers to the rough projections on which one can hold onto, such as in rock climbing. Therefore, the use of \"grip\" in both sentences does not convey the same meaning. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "absence",
+    "True Label": "1",
+    "LLM Response": "Target Word: Absence\n\nIn the first sentence, \"absence\" is used to denote the lack of something, in this case, any explanation. In the second sentence, \"absence\" refers to the fact of someone not being present and is used in a metaphorical or idiomatic context. Therefore, the two sentences do not use the word \"absence\" in the same sense.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "touch",
+    "True Label": "0",
+    "LLM Response": "The target word is \"touch\". In sentence 1, \"touch\" refers to a physical contact. In sentence 2, \"touch\" refers to a certain skill or quality usually attributed to women in making things more agreeable, comfortable or welcoming. Therefore, the intended sense of 'touch' is not the same in both sentences. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "follow",
+    "True Label": "0",
+    "LLM Response": "The target word is 'follow'. In Sentence 1, 'follow' means to accept and abide by rules. In Sentence 2, 'follow' means to move or proceed along a path or route. The sense is different in both sentences. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "silence",
+    "True Label": "0",
+    "LLM Response": "In both sentences, the word \"silence\" refers to the absence of noise or sound. So the meaning is the same.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "break",
+    "True Label": "0",
+    "LLM Response": "The target word here is 'broke'. In Sentence 1, 'broke' is used to mean 'surpass a record', while in Sentence 2, 'broke' is used to mean 'suddenly or abruptly start'. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "now",
+    "True Label": "1",
+    "LLM Response": "Label: 1"
+  },
+  {
+    "Target Word": "conflict",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "erase",
+    "True Label": "0",
+    "LLM Response": "The intended sense of \"erase\" in the first sentence is to remove or delete something written or drawn, usually physically such as on a blackboard. In the second sentence, \"erase\" refers to an attempt to remove or eliminate an entire group of people, historically or physically. Therefore, the meanings are not the same.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "head",
+    "True Label": "0",
+    "LLM Response": "The word \"head\" in Sentence 1 is used to refer to a toilet or restroom, which is a naval term. In Sentence 2, \"head\" is used to refer to someone's mind or brain. Therefore, the intended sense is not the same.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "connect",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "deal",
+    "True Label": "1",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "take",
+    "True Label": "0",
+    "LLM Response": "The target word 'take' has different meanings in these sentences. In the first sentence, 'take' refers to obtaining something (in this case, a newspaper), while in the second sentence, 'take' refers to performing a specific action.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "unravel",
+    "True Label": "1",
+    "LLM Response": "Label: 1"
+  },
+  {
+    "Target Word": "break",
+    "True Label": "0",
+    "LLM Response": "The target word here is \"break\". In Sentence 1, it is used to imply the idea of failure or falling apart. In Sentence 2, it is used to denote a physical act of breaking or falling apart. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "raise",
+    "True Label": "1",
+    "LLM Response": "The target word is \"raise\". In the first sentence, \"raise\" refers to the act of bringing up or nurturing, specifically referring to a family. In the second sentence, \"raise\" refers to promoting or elevating someone to a higher position or status, specifically referring to an office or position of power. Therefore, the intended sense of \"raise\" is not the same in these two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "pay",
+    "True Label": "1",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "develop",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "drink",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "tell",
+    "True Label": "1",
+    "LLM Response": "The target word you mentioned is missing. Could you please provide me with the target word?"
+  },
+  {
+    "Target Word": "evil",
+    "True Label": "1",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "conflict",
+    "True Label": "0",
+    "LLM Response": "Target word: conflict\n\nIn Sentence 1, \"conflict\" refers to a disagreement or argument between two political factions, namely Republicans and Democrats. In Sentence 2, \"conflict\" refers to a situation where someone's personal interests potentially clash with their professional duties or responsibilities. Therefore, the intended sense of the word 'conflict' is different in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "school",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "purchase",
+    "True Label": "1",
+    "LLM Response": "Target word: Purchase\n\nThe word \"purchase\" in both sentences refers to the act of buying something, thus its intended sense is the same in both contexts.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "point",
+    "True Label": "0",
+    "LLM Response": "Target word: Point\n\nThe usage of the word \"point\" in the first sentence denotes a specific location or direction on a compass. In the second sentence, the meaning of \"point\" might refer to a detail or a specific item in a list or series. Its sense in these two sentences is different.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "begin",
+    "True Label": "0",
+    "LLM Response": "The word \"begin\" in the first sentence refers to starting to smoke a cigar. In the second sentence, it refers to the starting point or boundary of a property.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "head",
+    "True Label": "1",
+    "LLM Response": "Label: 1"
+  },
+  {
+    "Target Word": "play",
+    "True Label": "0",
+    "LLM Response": "The word \"play\" in the first sentence refers to the action of catching a fish, while in the second sentence, it indicates placing a bet. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "start",
+    "True Label": "1",
+    "LLM Response": "Target word: woke/awoke\n\nIn both sentences, the intended meaning of the target word \"woke/awoke\" is the same - it refers to the act of ceasing to sleep. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "baby",
+    "True Label": "0",
+    "LLM Response": "The target word in the first sentence is used to indicate a pregnant woman's expected time of birth. But in the second sentence, the word 'baby' metaphorically refers to something significantly new or a great accomplishment which is the Supreme Court in this context. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "throw",
+    "True Label": "0",
+    "LLM Response": "The target word: Throw\n\nIn the first sentence, \"throw\" refers to the physical action of causing something or someone to move through the air. In the second sentence, \"throw\" refers to a quick, abrupt movement of a glance or look.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "theater",
+    "True Label": "1",
+    "LLM Response": "Target word: theater\n\nIn Sentence 1, \"theater\" refers to a specific geographic area of military operations during a war. In Sentence 2, \"theater\" also refers to a specific geographic area of military operations during a war. The context of both uses is military operations, and the intended sense is the same in both sentences. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "get",
+    "True Label": "0",
+    "LLM Response": "Target word: get\n\nIn Sentence 1, \"get\" refers to purchasing or acquiring something.\nIn Sentence 2, \"get\" refers to understanding or grasping information.\n\nThe intended sense of \"get\" is different in these two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "hit",
+    "True Label": "1",
+    "LLM Response": "Target Word: hit\n\nIn the first sentence, \"hit\" is used to indicate arriving at a place, while in the second sentence, \"hit\" is used to mean using or accessing something (in this case, an ATM or MAC machine). Thus, the intended sense of the word \"hit\" is not the same in these two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "development",
+    "True Label": "0",
+    "LLM Response": "Target word: Development\n\nIn Sentence 1, \"development\" refers to the process of processing and printing a photograph. In Sentence 2, \"development\" refers to an event or situation that has happened or exists which is regarded as a change in a situation. These two meanings are not the same.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "bum",
+    "True Label": "1",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "shade",
+    "True Label": "1",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "match",
+    "True Label": "0",
+    "LLM Response": "The target word: match\n\nIn the first sentence, \"match\" is used to denote similarity or compatibility. In the second sentence, \"match\" is used to denote a competition or contest. Therefore, the meaning is not the same.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "treat",
+    "True Label": "0",
+    "LLM Response": "The target word is \"treat\". The word has different meanings in both sentences. In the first sentence, \"treat\" means to consider or regard something in a specific way (as a joke in this case). In the second sentence, \"treat\" refers to giving medical care or attention. Therefore, the intended sense is not the same in both sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "academy",
+    "True Label": "0",
+    "LLM Response": "Target word: Academy\n\nIn both these sentences, the term \"Academy\" is used to refer to an institution dedicated to learning or cultivation of a particular field of knowledge. Therefore, the intended sense of the word is the same in both sentences. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "emission",
+    "True Label": "0",
+    "LLM Response": "In these sentences, the target word \"emission\" does not carry the same intended sense. In Sentence 1, \"emission\" is referring to the release of heat, a form of energy, from fire. In Sentence 2, \"emission\" is used to describe the expelling or discharge of a fluid substance, specifically blood. Here, \"emission\" involves a physical substance instead of energy. Therefore, the contexts are different. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "return",
+    "True Label": "0",
+    "LLM Response": "The target word in this context is 'return'. In Sentence 1, 'return' refers to the coming back or recurrence of something (season), while in Sentence 2, 'return' refers to profit or yield from an investment or venture. The intended sense is not the same.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "practice",
+    "True Label": "1",
+    "LLM Response": "Target word: Practice\n\nIn Sentence 1, \"practice\" refers to the process of doing something repeatedly to improve at it. In Sentence 2, \"practice\" has a similar meaning as it refers to repeated efforts to learn and perfect something. Both refer to rehearsal or practice to get better at something. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "give",
+    "True Label": "0",
+    "LLM Response": "The target word is 'Give'. In Sentence 1, 'give' is used to imply 'grant', specifically in a legal context. In Sentence 2, 'give' means 'yield', referring to a wall collapsing under pressure. So, the word 'give' has different meanings in these two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "interrupt",
+    "True Label": "0",
+    "LLM Response": "Label: 1"
+  },
+  {
+    "Target Word": "block",
+    "True Label": "1",
+    "LLM Response": "Label: 1"
+  },
+  {
+    "Target Word": "break",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "approach",
+    "True Label": "1",
+    "LLM Response": "Target word: Approach\n\nIn both sentences, the word \"approach\" is used to describe the act of moving closer to a location or object (city, house). Thus, the intended sense of the word \"approach\" is the same in both sentences.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "thing",
+    "True Label": "0",
+    "LLM Response": "The target word: thing\n\nIn Sentence 1, \"thing\" is referring to an object or an item that the speaker can't identify. In Sentence 2, \"thing\" is referring to a concept or idea that is being expressed differently. Therefore, the intended sense is not the same.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "shape",
+    "True Label": "0",
+    "LLM Response": "Target Word: Shape\n\nInterpretation: In Sentence 1, \"shape\" is used as a verb to describe the action of forming something (the dough). In Sentence 2, \"shape\" is also used as a verb to mold or create a figure. Therefore, the sense in which \"shape\" is being used in both sentences is the same. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "beat",
+    "True Label": "0",
+    "LLM Response": "The word \"beat\" in the first sentence refers to a physical action, specifically hitting one's own chest. In the second sentence, \"beats\" is used in an idiomatic way to express that something is confusing or incomprehensible to the speaker. Therefore, the sense or meaning of the word \"beat\" is different in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "buy",
+    "True Label": "0",
+    "LLM Response": "Target Word: Buy\n\nIn the first sentence, \"buy\" means to purchase something as a gift. In the second sentence, \"buy\" refers to purchasing a ticket for a train ride. Although there's a slight difference in context, the general meaning of \"buy\" (to purchase something) remains the same in both sentences.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "mark",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "top",
+    "True Label": "0",
+    "LLM Response": "The intended sense of the word \"top\" is not the same in both sentences. In the first sentence, \"top\" refers to a piece of clothing, while in the second sentence, \"top\" is used to denote a period in a sports game. \n\nLabel: 0."
+  },
+  {
+    "Target Word": "throat",
+    "True Label": "1",
+    "LLM Response": "Target word: Throat\n\nBoth sentences seem to use throat in the context of the narrowest part of an open structure. These uses appear to maintain the same meaning for the target word.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "source",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "beat",
+    "True Label": "1",
+    "LLM Response": "The target word \"beat\" has the same intended sense in both sentences. In both contexts, \"beat\" refers to the action of mixing or whipping an ingredient vigorously.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "use",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "wildness",
+    "True Label": "1",
+    "LLM Response": "Target word: Wildness\n\nThe sense of the word \"wildness\" in both sentences refers to the lack of control or restraint in a person's conduct or behavior. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "clearance",
+    "True Label": "1",
+    "LLM Response": "Target word: Clearance\n\nIn both sentences, \"clearance\" refers to the permission given, particularly in an aviation context, for a plane to take a particular action (either to land or to depart). Therefore, the intended meaning is the same. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "term",
+    "True Label": "1",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "leave",
+    "True Label": "1",
+    "LLM Response": "Target word: Leave\n\nIn sentence 1, \"leave\" is used to mean 'to not disturb or touch'. In sentence 2, \"leaves\" is used to mean 'to cause something to remain'. These usages have different meanings.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "drive",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "keep",
+    "True Label": "1",
+    "LLM Response": "Target word: Keep\n\nIn both sentences, \"keep\" has the same intended sense, which is to maintain or control something. Hence, the intended sense is the same.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "keep",
+    "True Label": "1",
+    "LLM Response": "Target word: Keep\n\nIn the first sentence, \"keep\" is used to mean \"store\" or \"preserve\" food this way. In the second sentence, \"keep\" is used with the same meaning but for batteries. So, the intended sense is the same in both sentences. \n\nLabel: 1"
+  },
+  {
+    "Target Word": "stand",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "talk",
+    "True Label": "1",
+    "LLM Response": "In these sentences, the word \"talk\" is used differently. In the first sentence, \"talk\" indicates communication without speaking, using signals and gestures. Conversely, in the second sentence, \"talk\" refers to the baby being able to articulate words or produce speech sounds. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "see",
+    "True Label": "1",
+    "LLM Response": "Target word: See\n\nIn Sentence 1, the term 'see' refers to paying attention or noticing details.\nIn Sentence 2, 'see' is used in the literal sense of visual perception. \n\nSo, the intended sense of 'see' is not the same in both sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "range",
+    "True Label": "1",
+    "LLM Response": "Target word: range\n\nIn Sentence 1, \"range\" is used to indicate a variation or spread in figures (in this case, estimates for losses). On the other hand, in Sentence 2, \"range\" is used to denote a variety or assortment of instruments.\n\nTherefore, the intended sense of the word \"range\" is different in the two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "luck",
+    "True Label": "1",
+    "LLM Response": "The target word is \"luck\".\n\nIn Sentence 1, \"luck\" refers to an external force causing an unfortunate event or persistent failure. In Sentence 2, \"luck\" signifies a positive circumstance resulting in an unexpected successful or beneficial event. Thus, the intended sense of the word \"luck\" is not the same in both sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "see",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "work",
+    "True Label": "1",
+    "LLM Response": "Target word: worked\n\nIn Sentence 1, \"worked\" refers to having a job or career to earn money. In Sentence 2, \"worked\" might have the same sense, meaning she never held a job, but without additional context it could potentially also refer to other types of work (like housework, coursework, etc.). However, the most likely interpretation is that in both sentences, \"worked\" is referring to employment.\n\nLabel: 1."
+  },
+  {
+    "Target Word": "move",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "use",
+    "True Label": "1",
+    "LLM Response": "Target word: use\n\nIn the first sentence, \"use\" refers to applying a mathematical formula for problem-solving. In the second sentence, \"use\" refers to speaking or communicating in Spanish. Therefore, the sense of the word \"use\" is not the same in these two sentences. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "feel",
+    "True Label": "1",
+    "LLM Response": "Target word: Feel\n\nIn both sentences, \"feel\" is used to indicate a strong understanding or affinity, with one referring to music and the other to animals. So, the intended sense is the same.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "fall",
+    "True Label": "1",
+    "LLM Response": "The target word would be: fall\n\nIn the first sentence, \"fall\" is used to mean \"become a victim of\", whereas in the second sentence, \"fell\" (past tense of \"fall\") is used to convey the losing of someone's approval or acceptance. So, the intended sense of \"fall\" is different in these two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "process",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "carry",
+    "True Label": "1",
+    "LLM Response": "Target word: Carry\n\nIn Sentence 1, \"carry\" refers to bearing or supporting something while moving oneself. \n\nIn Sentence 2, \"carry\" has the same sense, indicating the action of bearing or supporting something while in motion.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "check",
+    "True Label": "1",
+    "LLM Response": "The target word \"check\" does not have the same intended sense in both sentences. In Sentence 1, \"check\" is used in the sense of investigating or verifying something, i.e., a rumor. In Sentence 2, \"check\" is used to ascertain or find out a specific piece of information, i.e., the time of the class.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "session",
+    "True Label": "1",
+    "LLM Response": "Target word: session\n\nIn the first sentence, \"session\" refers to a period of training or teaching. In the second sentence, \"session\" refers to a recording period, and while a musician's session is mentioned later, it's in the context of the recording period. These are different contexts and uses for the word \"session\". \n\nLabel: 0"
+  },
+  {
+    "Target Word": "empty",
+    "True Label": "1",
+    "LLM Response": "Target word: Empty\n\nIn sentence 1, \"empty\" is used to indicate the action of removing all water or substance from a well or cistern. In sentence 2, \"empty\" is used to refer to the action of removing water, which is similar to the first sentence. Both cases involve the action of removing something entirely from its container.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "operation",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "heart",
+    "True Label": "0",
+    "LLM Response": "Target word: heart\n\nIn sentence 1, \"heart\" refers to the central or most important part, which is synonymous with the core or essence. In sentence 2, \"heart\" also refers to the central or most important part of something, in this case, the struggle. Therefore, the intended sense of \"heart\" remains the same in both sentences.\n\nLabel: 1"
+  },
+  {
+    "Target Word": "play",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "speech",
+    "True Label": "1",
+    "LLM Response": "Target word: Speech\n\nIn sentence 1, \"speech\" refers to a formal address or discourse given to an audience.\nIn sentence 2, \"speech\" refers to a person's style of speaking.\n\nThese are two different senses of the word \"speech\". \n\nLabel: 0"
+  },
+  {
+    "Target Word": "make",
+    "True Label": "0",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "point",
+    "True Label": "0",
+    "LLM Response": "The target word: point\n\nIn Sentence 1, \"point\" is referring to the main idea or essential part of something, in this case, a joke. In Sentence 2, \"point\" is used to refer to the sharp end of something. So the intended sense of \"point\" is different in these two sentences.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "post",
+    "True Label": "0",
+    "LLM Response": "The target word: post\n\nIn Sentence 1, 'post' refers to a mail delivery or collection service. In Sentence 2, 'post' refers to the mail itself that is received. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "unit",
+    "True Label": "1",
+    "LLM Response": "Label: 0"
+  },
+  {
+    "Target Word": "notice",
+    "True Label": "1",
+    "LLM Response": "The target word 'notice' is used in different senses in the two given sentences. In sentence 1, 'notice' refers to advance warning or information whereas in sentence 2, 'notice' refers to a public announcement. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "size",
+    "True Label": "1",
+    "LLM Response": "Target word: size\n\nIn Sentence 1, \"size\" refers to the physical dimensions, scale or magnitude of a city. In Sentence 2, \"size\" is used to denote the amount on the bill. The intended sense of \"size\" differs in the two sentences. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "set",
+    "True Label": "1",
+    "LLM Response": "In these sentences, the word \"set\" has two different meanings. In the first sentence, \"set\" possibly implies a group of elements (countries). In the second sentence, \"set\" is used to refer to a particular class or group of people, usually of a high social standing or a specified type. Therefore, the sense is not the same.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "head",
+    "True Label": "1",
+    "LLM Response": "Label: 1"
+  },
+  {
+    "Target Word": "get",
+    "True Label": "0",
+    "LLM Response": "The target word is \"get\". \nIn sentence 1, the sense of \"get\" is to understand.\nIn sentence 2, the sense of \"get\" is to acquire or buy.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "admit",
+    "True Label": "1",
+    "LLM Response": "The target word is: admit\n\nIn Sentence 1, 'admit' is used to mean 'accept' or 'acknowledge' a thought. \n\nIn Sentence 2, 'admit' is used to mean 'allow entry to' a place (here).\n\nIn this context, the word \"admit\" in both sentences has different meanings. \n\nLabel: 0"
+  },
+  {
+    "Target Word": "hold",
+    "True Label": "1",
+    "LLM Response": "The target word in Sentence 1 is \"hold\", it means \"to remain valid or true\". In Sentence 2, the target word \"hold\" means \"to remain in the same condition\". Therefore, based on the context, the word \"hold\" in these two sentences has slightly different meanings.\n\nLabel: 0."
+  },
+  {
+    "Target Word": "pain",
+    "True Label": "0",
+    "LLM Response": "The target word 'pain' in the first sentence refers to emotional suffering, while in the second sentence it refers to physical suffering. Thus, the intended sense is not the same.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "krona",
+    "True Label": "1",
+    "LLM Response": "Target word: Kronas\n\nWhile \"kronas\" in both sentences refers to a type of currency, the context is different in each use. In the first sentence, \"kronas\" refers to a specific number of currency. In the second sentence, \"kronas\" is part of an expression that refers to the value of the currency itself.\n\nLabel: 0"
+  },
+  {
+    "Target Word": "tomorrow",
+    "True Label": "1",
+    "LLM Response": "Label: 0"
+  }
+]
