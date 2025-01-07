@@ -89,7 +89,7 @@ We conducted detailed embedding analysis using:
 | LLAMA 3.2   | T0 | 0.52 | 0.57 | 0.16 | 0.25 |
 |             | T1 | 0.64 | 0.61 | 0.80 | 0.69 |
 
-*Note: T0 and T1 represent Template 0 and Template 1 respectively. *
+*Note: T0 and T1 represent Template 0 and Template 1 respectively.*
 
 ## References
 
