@@ -1,0 +1,602 @@
+[
+  {
+    "word": "day",
+    "true_label": "1",
+    "llm_response": "In these sentences, the \"target word\" is \"day.\"\n\nIn Sentence 1: \"He was a successful pianist in his day,\" the word \"day\" is used colloquially to mean \"time\" or \"era,\" specifically referring to the time period when the person was active and successful.\n\nIn Sentence 2: \"In the days of the Roman Empire,\" the word \"day\" also refers to a time or era in history, denoting the period during which the Roman Empire existed.\n\nIn both instances, \"day\" is used to denote a certain period of time in history, though one is more specific to a person's lifetime or career span, while the other refers to a broader historical period. Despite the slightly different scopes, the essential meaning of marking a defined period remains the same.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "grip",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, the word \"grip\" refers to the part of the sword designed to be held in the hand. In Sentence 2, \"grips\" refers to natural or handmade places on a rock face where climbers can hold or rest their hands. In both contexts, \"grip\" involves a concept of holding something, but the specific meaning and application differ: one is a physical part of an object, and the other is a feature used for support or hold in climbing.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "absence",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, \"absence\" refers to the lack or non-existence of an explanation, meaning someone or something that is not present or is missing.\n\nIn Sentence 2, \"absence\" is used in a proverbial or idiomatic sense to suggest that being away from someone makes one feel more affectionate or longing for them.\n\nThese two uses of \"absence\" differ significantly in context and nuance: one is about the literal lack of something specifically required or expected (an explanation), and the other is about the emotional effect of separation from loved ones.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "touch",
+    "true_label": "0",
+    "llm_response": "The word \"touch\" in these two sentences is used with different meanings. In Sentence 1, \"touch\" refers to physical contact, specifically the act of touching someone's hand as an expression of affection or desire. In Sentence 2, \"touch\" metaphorically describes influence or style, suggesting that details or changes made by a woman could improve the appearance or atmosphere of the room.\n\nThe use of \"touch\" in the first sentence is literal, while in the second it is figurative and pertains more to aesthetics or subtle influence rather than physical contact.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "follow",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, \"follow\" is used to mean \"adhere to\" or \"abide by,\" referring to practices or rules established by a religion.\n\nIn Sentence 2, \"follow\" refers to the physical act of moving along a particular path or route, specifically a road in this instance.\n\nThe meanings in these contexts differ significantly\u2014one is metaphorical and pertains to practices, while the other is literal and pertains to physical movement.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "silence",
+    "true_label": "0",
+    "llm_response": "In both Sentence 1 and Sentence 2, the word \"silence\" refers to the absence of noise or the condition of being quiet. In the first sentence, \"silence\" is needed as an environment conducive to sleep, while in the second, \"silence\" is something being requested or enforced through gesturing, possibly to maintain decorum, focus, or peace in a setting. Despite the slightly different contexts\u2014one being for sleep and the other likely for maintaining order\u2014the core meaning of \"silence\" as the lack of sound remains the same.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "break",
+    "true_label": "0",
+    "llm_response": "In the given sentences, the target word \"break\" is used in different contexts with different meanings.\n\nIn Sentence 1: \"Break a record,\" the word \"break\" means to surpass a previous record or achieve a new standard, often used in the context of setting new marks in sports, academics, sales, etc.\n\nIn Sentence 2: \"Voices broke in the air,\" the word \"break\" is used to describe a sudden or striking interruption of sound, likely meaning that voices started abruptly or became clearly audible in the surrounding silence or noise.\n\nGiven the distinct contexts and meanings in these usages, the meanings of \"break\" in the two sentences are different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "now",
+    "true_label": "1",
+    "llm_response": "In both sentences, the word \"now\" refers to the current moment or the present time. In Sentence 1, \"now\" is used to emphasize that the present time is the optimal moment for an unspecified action or decision. In Sentence 2, \"now\" similarly indicates that the present moment is a suitable or advantageous time for the action mentioned (to do it). Thus, the meaning of \"now\" maintains consistency across both sentences as referring specifically to the current time period.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "conflict",
+    "true_label": "0",
+    "llm_response": "In this comparison, the word \"conflict\" is used in both sentences but with subtly different implications.\n\nIn the first sentence, \"conflict\" refers to an ongoing struggle or fight, typically of some duration and often involving violence, particularly in political, social, or military contexts. This is a common usage of \"conflict\" that implies an active engagement in hostilities.\n\nIn the second sentence, \"A conflict of loyalties,\" the word \"conflict\" is used more metaphorically to describe a situation where a person may feel torn between two competing loyalties or duties. This use of \"conflict\" deals more with internal struggle or moral dilemma rather than an external, physical, or violent confrontation.\n\nBoth uses retain the fundamental concept of a struggle or a clash, but the contexts and implications differ significantly: one external and often physical, the other internal and psychological.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "erase",
+    "true_label": "0",
+    "llm_response": "In the provided sentences, the word \"erase\" is used in two very different contexts:\n\n1. In Sentence 1, \"erase\" is used in the literal sense, referring to physically removing writing from a board using an eraser or similar tool. It involves the action of wiping away marks made on a surface.\n\n2. In Sentence 2, \"erase\" is used metaphorically and historically, implying a form of ethnic cleansing or genocide. It represents an attempt to remove the presence or memory of a group of people, which is a much graver and profound context than the literal cleaning of written material.\n\nGiven the drastic difference in implication and usage of the word \"erase\" in these two sentences, the meanings are significantly different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "head",
+    "true_label": "0",
+    "llm_response": "In the given sentences, the word \"head\" is used with two different meanings:\n\n1. In the first sentence, \"I've got to go to the head,\" the term \"head\" refers to a restroom or toilet, which is a slang usage particularly in nautical contexts.\n\n2. In the second sentence, \"This song keeps going through my head,\" the word \"head\" refers to the mind or one's thoughts, indicating that the song is continually being thought about or mentally replayed.\n\nGiven these differing usages, \"head\" does not have the same meaning in both sentences.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "connect",
+    "true_label": "0",
+    "llm_response": "In this context, the word \"connect\" is used in both sentences to refer to the idea of making a link or establishment of a joining route between two points. In the first sentence, \"connect\" means to establish a telephone connection between the speaker and the Raffles hotel in Singapore. In the second sentence, \"connect\" refers to a train route that links the local train service to the Amtrak train service, implying they do not join or meet at a common point.\n\nIn both cases, \"connect\" maintains the core concept of linking or joining, despite the different contexts (telecommunication vs. transportation). Both usages align with the general definition of the word as establishing a link or route between two entities.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "deal",
+    "true_label": "1",
+    "llm_response": "In the provided sentences, the word \"deal\" is used in two distinct contexts.\n\nIn Sentence 1, \"deal\" refers to the act of distributing cards to players in a card game. The speaker implies that it is the other person's turn to distribute the cards.\n\nIn Sentence 2, \"deal\" is used to describe a situation or an experience, specifically indicating that the speaker did not receive favorable cards or opportunities throughout the evening.\n\nGiven the different usages of the word \"deal\" \u2014 one as literally dealing cards, and the other as a metaphor for the quality of experience \u2014 the meanings in the two sentences are significantly different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "take",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, the word \"take\" is used in the sense of obtaining or receiving something on a regular basis, specifically referring to a newspaper subscription.\n\nIn Sentence 2, \"take\" is used in the sense of initiating or carrying out an action.\n\nThese two uses of \"take\" have distinctly different meanings: one is about obtaining a physical object and the other about initiating a course of action.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "unravel",
+    "true_label": "1",
+    "llm_response": "In the context of the given sentences, the word \"unravel\" is used in both to describe the act of untangling or undoing something that has been tangled or knotted.\n\nSentence 1 uses \"unravel\" to imply that playing with the seam of the tablecloth could cause it to become undone or separated, which aligns with the general meaning of unraveling something that has been knit or sewn together.\n\nSentence 2 uses \"unravel\" in a similar way, referring to the difficulty of untangling a ball of wool that has been tangled by the cat's play.\n\nIn both instances, \"unravel\" is used to describe the action of undoing or untangling something intricate or complicated. Thus, the meaning of \"unravel\" maintains consistency across both sentences.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "break",
+    "true_label": "0",
+    "llm_response": "In these sentences, the word \"break\" is used in different contexts with different meanings. In the first sentence, \"break\" metaphorically means to lead to failure, specifically it suggests that the outcome of the play will highly influence the playwright's career or reputation negatively if it fails. In the second sentence, \"break\" is used literally to describe the physical action of something becoming damaged or fractured. \n\nTherefore, the meanings of \"break\" in these contexts are significantly different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "raise",
+    "true_label": "1",
+    "llm_response": "In the two sentences provided, the word \"raise\" is employed in different contexts:\n\n1. \"Raise a family\" - This refers to the nurturing and bringing up of a family, which involves caring for children from birth to maturity.\n2. \"To raise somebody to office\" - This refers to promoting or elevating someone to a position of authority or responsibility, such as in a government or corporate setting.\n\nGiven these different contexts, the meaning of \"raise\" in each sentence is distinct. In the first sentence, it pertains to family caregiving and upbringing, while in the second, it relates to elevating someone's professional or official status.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "pay",
+    "true_label": "1",
+    "llm_response": "The word \"pay\" in the two sentences holds differing meanings. In Sentence 1, \"pay\" refers to the monetary amount that an investment yields or earns annually. This usage pertains to a financial context. In Sentence 2, \"pay\" refers to giving attention or focus, which is a completely non-financial application of the verb. Given these different applications, \"pay\" does not maintain the same meaning across the sentences.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "develop",
+    "true_label": "0",
+    "llm_response": "The word \"developed\" is used in different contexts and meanings in the two sentences. In Sentence 1, \"develop\" refers to creating or fostering growth, specifically in the commercial or marketing sense for a product (in this case, a new mobile phone). In Sentence 2, \"developed\" refers to something that has grown to be fully formed or matured, specifically describing physical attributes, particularly human breasts.\n\nThese meanings are quite distinct; one is about creating market growth, and the other is about physical maturity or growth. Therefore, they do not share the same meaning.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "drink",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, \"Drink was his downfall,\" the word \"drink\" is used in a general sense to refer to alcohol or the act of consuming alcohol, implying a habit or addiction that led to negative consequences.\n\nIn Sentence 2, \"I'd like another drink please,\" the word \"drink\" refers specifically to a beverage that one might order, for instance, at a bar or restaurant.\n\nThe meanings of \"drink\" in these two sentences differ significantly: one is about the habitual action or the substance of alcohol leading to a downfall, while the other is a request for a serving of a beverage. Hence, the use of \"drink\" carries a broader, more abstract connotation in the first sentence compared to a concrete and direct meaning in the second sentence.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "tell",
+    "true_label": "1",
+    "llm_response": "The target word in question is \"told.\" In Sentence 1, \"tell\" is used in the sense of asking for information or expressing a desire to learn something from someone else. In Sentence 2, \"told\" is used to mean informing or giving advice about something specific.\n\nIn both sentences, \"told\" relates to the act of conveying information. Hence, the meaning of \"told\" in both contexts is similar as it involves one person communicating information to another.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "evil",
+    "true_label": "1",
+    "llm_response": "In the given sentences, the target word \"evil\" is used in different contexts with different meanings.\n\nSentence 1: \"evil\" is used in a philosophical and moral sense, referring to the concept of malevolence or wrongdoing that is generally recognized as causing harm or destruction.\n\nSentence 2: In the phrase \"giving me evils,\" \"evil\" takes on a colloquial meaning that deviates from the traditional philosophical or moral sense. Here, it refers to someone giving a person a mean, nasty, or disapproving look, often interpreted as a glare.\n\nSince the usages reflect different understandings and contextual applications of the word \"evil,\" the meaning in each sentence is too different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "conflict",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, the word \"conflict\" is used to describe a struggle or a series of disputes between groups with opposing views, specifically between Republicans and Democrats, which is usually political.\n\nIn Sentence 2, \"conflict\" is used in the phrase \"conflict of interest,\" which refers to a situation where someone\u2019s personal interests could interfere with their professional responsibilities or duties.\n\nThe core concept of \"conflict\" in both sentences involves opposing forces, but the contexts and implications differ significantly. In the first, it refers to a broader, external fight between parties, while in the second, it deals with an internal ethical problem affecting decision-making. Therefore, the meanings are related but distinct enough to consider them different in these contexts.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "school",
+    "true_label": "0",
+    "llm_response": "The target word \"school\" is used in two distinct meanings in the given sentences. In the first sentence, \"school\" refers to an educational institution where students go to learn. In the second sentence, \"school\" refers to a group of fish swimming together.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "purchase",
+    "true_label": "1",
+    "llm_response": "In this case, the target word is \"purchase.\" \n\nIn both sentences, \"purchase\" refers to the act of buying something in exchange for money. In the first sentence, the focus is on buying a dress with $50, while the second sentence discusses buying land or a house. Despite the different objects involved, the core meaning of \"purchase\" as acquiring ownership of something by paying for it remains consistent across both sentences.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "point",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, the word \"point\" refers to a specific location or direction indicated on a compass, such as North, South, East, or West. This usage of the word represents a precise and singular reference on the compass used for orientation or navigation.\n\nIn Sentence 2, \"points\" refers to multiple individual items or locations arranged in a row. This context suggests a series of distinct spots or marks, possibly implying a sequence or alignment.\n\nThe primary difference in the usage of \"point\"/\"points\" between the two sentences lies in their reference; the first is about a specific referential or directional marker on a navigation tool, while the second is about multiple distinct spots or locations laid out in a row. These meanings are quite distinct in their applications and implications.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "begin",
+    "true_label": "0",
+    "llm_response": "The word \"begin\" in these sentences is used in different contexts and hence carries different meanings.\n\nIn Sentence 1, \"Begin a cigar\" refers to the action of starting to smoke a cigar. Here, \"begin\" is used in the sense of commencing an activity.\n\nIn Sentence 2, \"My property begins with the three maple trees,\" \"begin\" is used to denote the starting point or boundary of the property. It describes the physical start or the geographical commencement of an area.\n\nBecause of the different usages of \"begin\" in the context of initiating an action versus marking a starting physical boundary, the meanings are too distinct.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "head",
+    "true_label": "1",
+    "llm_response": "In both Sentence 1 and Sentence 2, the word \"head\" is used metaphorically to refer to the mind or thoughts. In Sentence 1, \"head\" suggests that someone's words are persistently occupying the person's thoughts. In Sentence 2, \"head\" serves a similar function, describing how a song continuously plays in the person's mind. Therefore, in both cases, \"head\" refers to the mental or cognitive processes involved in thinking or retaining ideas and sounds.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "play",
+    "true_label": "0",
+    "llm_response": "The word \"play\" in both sentences carries different meanings. In the first sentence, \"play\" refers to the act of manipulating or handling a hooked fish, typically as one tries to reel it in carefully to avoid it escaping or breaking the line. In the second sentence, \"play\" is used in the context of gambling, meaning to bet or wager an amount of money.\n\nSince the actions and contexts considerably differ between handling a fish and placing a bet, the meanings of \"play\" in these sentences are not the same.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "start",
+    "true_label": "1",
+    "llm_response": "The target word in both sentences is \"start.\" In this context, \"start\" is used to signify a sudden, involuntary movement or jerk, typically occurring as a reaction to surprise, shock, or sudden awakening. Both sentences describe a similar physical response upon waking. Thus, the use of \"start\" in both sentences carries the same meaning.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "baby",
+    "true_label": "0",
+    "llm_response": "In the given sentences, the word \"baby\" is used in two different contexts. In the first sentence, \"When is your baby due?\" the word \"baby\" refers to a human infant, specifically the unborn child that someone is expecting to give birth to soon.  \n\nIn the second sentence, \"The baby of the Supreme Court,\" the term \"baby\" is used metaphorically to describe the newest or youngest member of the Supreme Court. This usage is figurative and does not literally refer to a human infant.\n\nBecause the meanings of \"baby\" in the two sentences differ markedly - one being literal and the other metaphorical - the semantic similarity is not preserved across these contexts.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "throw",
+    "true_label": "0",
+    "llm_response": "In this pair of sentences, the target word is \"throw.\"\n\nIn Sentence 1, \"throw\" refers to the physical action of the horse causing its rider to be forcefully propelled off its back. \n\nIn Sentence 2, \"throw\" is used metaphorically to describe a quick or casual look, indicating a very brief and non-physical action.\n\nGiven that in the first sentence \"throw\" involves a physical and forceful action, and in the second, it symbolically represents a swift, effortless action (a glance), the meanings are significantly different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "theater",
+    "true_label": "1",
+    "llm_response": "In these sentences, the term \"theater\" refers to a region or area where military operations are being carried out during a war. Sentence 1 mentions \"the Pacific theater,\" which indicates the geographic area in and around the Pacific Ocean where military actions occurred during World War II. Sentence 2 uses \"the Vietnam theater\" to refer to the area involved in military operations during the Vietnam War. \n\nIn both cases, \"theater\" is used to describe a broad geographical zone where military engagements happen. Thus, the word retains the same meaning related to military operations in both sentences.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "get",
+    "true_label": "0",
+    "llm_response": "The word \"get\" in the two sentences has different meanings. \n\nIn Sentence 1, \"What did you get at the toy store?\" the word \"get\" refers to acquiring or purchasing something, specifically from a store.\n\nIn Sentence 2, \"She didn't get his name when they met the first time,\" the word \"get\" is used to mean understanding or receiving information (in this case, someone's name).\n\nThese meanings are distinct - one is about obtaining items, and the other is about receiving or understanding information.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "hit",
+    "true_label": "1",
+    "llm_response": "The word \"hit\" in both sentences conveys the idea of reaching, arriving at, or visiting a place, although the context varies. In the first sentence, \"hit\" describes the action of arriving in Detroit. In the second sentence, \"hit\" refers to the action of going to use an ATM (MAC machine).\n\nDespite the different objects \u2013 a city versus an ATM \u2013 the underlying meaning of \"hit\" as a way to indicate the act of going somewhere for a specific purpose (arrival in Detroit, usage of an ATM) remains consistent.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "development",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, \"development\" refers specifically to the process related to photograph processing which involves converting captured images from photographic film into visible pictures, generally by treating them with chemicals in a darkroom or using other photographic development means.\n\nIn Sentence 2, \"development\" refers more abstractly to progress or new information in a matter or situation that results in change or evolution in thought, opinion, or decision.\n\nSince the word \"development\" signifies different activities and concepts in each sentence\u2014physical processing of pictures in the first, and a change in situation or information leading to a revised opinion in the second\u2014the meanings are quite distinct.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "bum",
+    "true_label": "1",
+    "llm_response": "In these sentences, the word \"bum\" has different meanings:\n\nSentence 1: \"That mechanic's a bum\" uses \"bum\" to describe a person as incapable or incompetent. It is derogatory but focuses on the mechanic's lack of skill or effectiveness.\n\nSentence 2: \"Throw the bum out!\" here \"bum\" refers to a person whose behavior is unacceptable or disruptive. The emphasis is on the individual being a nuisance in a specific setting, i.e., the concert.\n\nIn this context, while both uses are pejorative, the specific implications and contexts differ substantially: one focuses on skill, the other on behavior in a social setting.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "shade",
+    "true_label": "1",
+    "llm_response": "In this query, the target word \"shade\" is used in two different contexts across the two sentences.\n\nIn Sentence 1: \"Shade the meaning\" typically means to slightly alter, modify, or influence the meaning (figuratively). Here, shade is used in the sense of giving nuance or subtlety to the interpretation of something.\n\nIn Sentence 2: \"shading towards gold\" describes a transition in color. This usage is literal and refers to the visual appearance where one color gradually changes into another. \n\nThe word \"shade\" therefore has distinct uses in these sentences - figuratively modifying abstract concepts in the first, and describing literal color transition in the second.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "match",
+    "true_label": "0",
+    "llm_response": "In the first sentence, the word \"match\" refers to having similar or complementary attributes or opinions. It suggests alignment or accordance between his interests and her interests.\n\nIn the second sentence, \"match\" means to pit or pair competitors against each other, like in a contest or competition. This usage is about setting up a competition or challenge.\n\nSince the meanings of \"match\" in both sentences address different concepts (alignment in preferences versus setting up a contest), they are distinct in usage and implications.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "treat",
+    "true_label": "0",
+    "llm_response": "The word \"treat\" in both sentences has very different meanings. In Sentence 1, \"treat\" connotes considering something in a specific manner - in this case, as a joke or something not to be taken seriously. In Sentence 2, \"treat\" refers to giving medical care or assistance to a patient to alleviate or cure a condition. \n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "academy",
+    "true_label": "0",
+    "llm_response": "In these two sentences, the \"target word\" is \"academy.\" Both uses refer to establishments or institutions. However, there's a distinction in the type of institutions they denote. \"The military academy at West Point\" specifically refers to a military training institution, a place where cadets receive education and training for military service. On the other hand, \"The French Academy\" (likely referring to the Acad\u00e9mie fran\u00e7aise), pertains to a prestigious institution focused on matters pertaining to the French language, literature, and intellectual life in general.\n\nAlthough both subjects pertain to educational and institutional contexts, their focuses \u2014 military training vs. language and literature \u2014 are significantly different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "emission",
+    "true_label": "0",
+    "llm_response": "In this scenario, the word \"emission\" is used in both sentences:\n\n1. In Sentence 1, \"emission\" refers to the release or discharge of heat from a fire.\n2. In Sentence 2, \"emission\" refers to the release or discharge of blood.\n\nIn both contexts, \"emission\" retains its basic meaning of something being emitted or discharged, albeit different substances (heat vs. blood). Since the core semantic concept of release or discharge is consistent across both sentences, the meaning of \"emission\" remains essentially the same.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "return",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, the word \"return\" refers to the seasonal comeback or the reappearance of spring, suggesting a natural cyclic event.\n\nIn Sentence 2, the word \"return\" refers to the financial gains or yields, typically from an investment, measured in percentage.\n\nThe uses of \"return\" in both sentences represent distinctly different concepts - one physical and cyclical, the other financial and quantitative. As such, the meanings are too different in these contexts.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "practice",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, \"practice\" refers to the act of repeatedly doing something to gain skill or proficiency. The usage is idiomatic to suggest that continually working on a skill leads to mastery.\n\nIn Sentence 2, \"practice\" means rehearsing or repeatedly doing something, particularly the lines of a performance, to get better at it.\n\nIn both sentences, the use of \"practice\" pertains to the process of doing something repeatedly to improve skill, thus retaining a similar meaning in both contexts.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "give",
+    "true_label": "0",
+    "llm_response": "In the provided sentences, the word \"give\" is used in different contexts and demonstrates different meanings:\n\n1. In Sentence 1, \"Give a divorce\" uses \"give\" to imply the action of granting or performing the act of legally dissolving a marriage. Here, \"give\" suggests an act of providing or allowing something formally or officially.\n\n2. In Sentence 2, \"The wall gave in\" uses \"give\" in a physical context where it means to collapse, yield, or fail to hold. This is a metaphorical use to describe something succumbing under pressure.\n\nThe meanings of \"give\" in these two contexts are quite distinct\u2014one being more about a formal act of provision, and the other about physical failure or collapse.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "interrupt",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, \"interrupt\" refers to someone causing a break or disturbance in the on-going activity of another person, in this case, reading. It's typically about a personal intrusion that halts someone's current action.\n\nIn Sentence 2, \"interrupt\" is used to describe a temporary pause or disruption in a scheduled or ongoing broadcast (program) to insert messages, often advertisements or important updates. Here, the term applies to a media context where the flow of programming is paused.\n\nBoth usages of \"interrupt\" maintain the core meaning of temporarily halting or breaking the continuity of an ongoing process or activity. Despite the differences in contexts (personal vs. media), the fundamental meaning aligns in describing a break in continuity. \n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "block",
+    "true_label": "1",
+    "llm_response": "In this comparison, the \"target word\" is \"block\".\n\nIn Sentence 1, \"Block a garment\" likely involves shaping the garment by wetting, stretching, and drying it to conform to certain dimensions or shape. This is a technique often used in the context of knitting or crocheting to make the finished product lay flat and meet the desired size specifications.\n\nIn Sentence 2, the usage of \"blocked\" in \"I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard\" describes a method where knitted or crocheted items (in this case, mittens) are wet and then shaped by pinning them onto a form (cardboard) to dry so that they hold a particular shape and size.\n\nBoth uses of \"block\" deal with the technique of shaping and sizing textiles, specifically knit or crocheted items, through a process of wetting and drying while pinned to a form or a flat surface. Therefore, the meaning of the word \"block\" in both sentences is similar, as it relates to the same crafting technique.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "break",
+    "true_label": "0",
+    "llm_response": "The target word \"break\" in Sentence 1 (\"Break a circuit\") refers to interrupting or opening an electrical circuit, which stops the flow of electricity. This is a physical action leading to the discontinuation of the circuit's function.\n\nIn Sentence 2 (\"Break a promise\"), \"break\" refers to failing to honor or keep a promise. This usage is metaphorical and deals with not fulfilling a commitment or expectation in a social or personal context.\n\nThe meanings of \"break\" in these two sentences differ significantly \u2013 one is physical and concerns disrupting a mechanical or electronic function, while the other is metaphorical relating to trust and expectations between individuals.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "approach",
+    "true_label": "1",
+    "llm_response": "In both sentences, the word \"approach\" is used to mean 'to come near or nearer to something or someone in space.' In Sentence 1, it is about coming nearer to the city, while in Sentence 2, it is about coming nearer to the house. The contextual function and the meaning of the word \"approach\" in both sentences remain consistent as they both involve moving closer to a specific location.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "thing",
+    "true_label": "0",
+    "llm_response": "In the sentences provided, the use of the word \"thing\":\n\n- Sentence 1: \"I couldn't tell what the thing was.\" Here, \"thing\" is used to describe an object or entity that the speaker is unsure about or unable to identify. It reflects uncertainty or ambiguity.\n- Sentence 2: \"To say the same thing in other terms.\" In this usage, \"thing\" refers to an idea, concept, or statement that can be expressed differently. This implies a notion or topic of discussion rather than a physical object.\n\nThe semantic use of \"thing\" in the two sentences diverges significantly \u2013 in the first, it's more about a physical or unidentified object, while in the second, it pertains to an abstract concept or information. Thus, the meanings are quite different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "shape",
+    "true_label": "0",
+    "llm_response": "In both Sentence 1: \"Shape the dough.\" and Sentence 2: \"Shape a figure.\" the word \"shape\" exhibits similar usage, denoting the act of forming or configuring something into a specific form or figure. In the first sentence, shaping involves molding or configuring dough into a desired form for cooking or baking. In the second sentence, shaping a figure can involve crafting, sculpting, or organizing something (such as clay, a drawing, or numerical data) into a recognizable form or outline.\n\nIn both usages, \"shape\" retains the core idea of manipulating or constructing the physical or visual structure of something, demonstrating that the term keeps consistent meaning across the provided contexts.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "beat",
+    "true_label": "0",
+    "llm_response": "The word \"beat\" in Sentence 1 refers to the act of striking or hitting one's chest, often used as a gesture of grief, penitence, or deep emotion. Meanwhile, in Sentence 2, \"beat\" is used in a figurative sense meaning \"to defeat\" or \"to be too difficult to understand or figure out,\" as in being unable to solve or comprehend something.\n\nThese two uses of \"beat\" represent different meanings: one physical and symbolic, and the other abstract and related to a mental state of being perplexed or stumped.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "buy",
+    "true_label": "0",
+    "llm_response": "In these sentences, the word \"buy\" refers to the act of obtaining something in exchange for payment.\n\nIn Sentence 1, \"buy\" is used to indicate the act of purchasing a gift, something nice for a father's birthday. This involves a monetary transaction where an item is obtained as a present.\n\nIn Sentence 2, \"buy\" refers to purchasing a train ride. Similarly, this involves paying money to obtain a service, which in this case is transportation.\n\nIn both cases, the use of \"buy\" has a similar meaning involving the acquisition of goods or services through monetary exchange.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "mark",
+    "true_label": "0",
+    "llm_response": "In these sentences, the target word \"mark\" is used in different contexts and therefore has different meanings.\n\nIn Sentence 1, \"mark\" connotes a celebration or commemoration of an event (\"the anniversary of the revolution\"). It implies an observance of significance marked by some action or event.\n\nIn Sentence 2, \"mark\" denotes the physical indication or representation of a limit or boundary (\"marks the border\"). Here, it primarily refers to indicating or setting a specific location.\n\nThe differences in context (celebratory vs. indicating position) highlight the variance in meaning of \"mark\" in these sentences.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "top",
+    "true_label": "0",
+    "llm_response": "The word \"top\" in Sentence 1 refers to a piece of clothing that covers the upper part of the body. In Sentence 2, \"top\" refers to the first half of an inning in baseball. Here, the meanings of \"top\" are distinctly different between the two sentences.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "throat",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, \"throat\" refers to the part of a chimney where there is a narrowing or where the passage upwards becomes tighter, often situated just above the fireplace. This part directs smoke efficiently out of the chimney.\n\nIn Sentence 2, \"throat\" describes a part of a vase that narrows or the main opening through which contents are placed or held.\n\nIn both sentences, \"throat\" is used metaphorically to indicate a constricted or narrow part of an object, where something passes through or is held. Thus, the term retains a relatively similar metaphorical meaning in both contextual usages, focusing on the area of constriction or transition.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "source",
+    "true_label": "0",
+    "llm_response": "In the first sentence, \"source\" refers to the geographic starting point or origin of the Ohio River. It indicates the location where the river begins.\n\nIn the second sentence, \"source\" pertains to the origin or the basis from which something (in this case, a quotation) is obtained or derived. It is used to describe the origin of information or data.\n\nIn both sentences, \"source\" refers to the point of origin or the starting point of something, whether it is a physical river or a piece of information. Despite the contexts pertaining to natural geography and intellectual property respectively, the core meaning of \"source\" as an origin remains consistent.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "beat",
+    "true_label": "1",
+    "llm_response": "The word \"beat\" in both sentences refers to the action of vigorously stirring a mixture using a utensil to incorporate air or achieve a desired consistency. In Sentence 1, it's used for cream, and in Sentence 2, it is applied to egg whites, but the basic meaning of the action \"beat\" remains the same in both kitchen contexts.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "use",
+    "true_label": "0",
+    "llm_response": "In the given sentences, the word \"use\" is employed in different contexts, thus altering its meaning.\n\nIn Sentence 1, \"use\" refers to the act of consuming or employing narcotic drugs, implying a practical application of something, primarily focusing on the act of utilizing drugs in a manner that is being discouraged.\n\nIn Sentence 2, \"use\" questions the practical functionality or the usefulness of ballet. It goes beyond the idea of employing something and instead critiques the purpose or benefit of ballet, generally philosophically questioning its value or utility in practical terms.\n\nThus, the term \"use\" is utilized in vastly different contexts: first in a literal, practical sense about drug consumption, and second in a rhetorical, questioning sense about the existential or practical value of an art form.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "wildness",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, \"wildness\" refers to Liza's inherent or habitual inclination towards being uncontrolled or unrestrained. It implies a personal characteristic or trait of Liza.\n\nIn Sentence 2, \"wildness\" refers to a particular aspect or quality of behavior, particularly in response or as a form of protest against something external and restrictive (repressive convention). Here, it emphasizes a specific, situational response or demeanor influenced by external factors rather than a general characteristic.\n\nIn both contexts, \"wildness\" involves the idea of being untamed or not conforming to typical norms. However, the nuance varies slightly from an inherent trait in Liza to a reactive quality in the person's behavior in Sentence 2. Despite this subtle difference in contextual usage, the core meaning of wildness, indicating a departure from controlled or conventional behavior, remains consistent.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "clearance",
+    "true_label": "1",
+    "llm_response": "In both sentences, the target word \"clearance\" refers to the permission granted for the aircraft to proceed with certain actions (to land in the first sentence and presumably to take off or commence the flight in the second sentence). In both contexts, \"clearance\" relates directly to air traffic management's approval or permission, maintaining a consistent meaning.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "term",
+    "true_label": "1",
+    "llm_response": "In this context, the \"target word\" is \"term.\" In Sentence 1, \"term\" refers to a fixed or limited period during which someone is imprisoned. In Sentence 2, \"term\" is used to describe the period allowed to a debtor to pay off their debt. \n\nAlthough they both refer to a period of time, the contexts significantly alter the meaning of \"term.\" In the first sentence, it is more about the duration of a sentence served in a correctional facility, whereas in the second, it addresses a timeframe granted for fulfilling a financial obligation. Hence, the term \"term\" is used in significantly different capacities across the two sentences.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "leave",
+    "true_label": "1",
+    "llm_response": "The word in question is \"leaves/leave.\" In Sentence 1, \"leave\" means to physically not touch or interfere with the young fawn - essentially, to not disturb it. In Sentence 2, \"leaves\" refers to the result of something being left after an action, in this case, a residue remaining after using a cleaning product.\n\nThe meanings in both contexts are related to the concept of leaving something in a certain condition or state. However, the context of the action and what is left differs significantly: one is about leaving a living creature undisturbed, and the other concerns a substance remaining after a cleaning process.\n\nDespite these differences, both uses still align with the core concept of something remaining or being left as is, whether it's not disturbing the state of a fawn or leaving a substance behind. Therefore, we can say the meanings are similar as they both communicate the idea of leaving something in a certain state, though the specifics of what is left and the actions leading to it differ.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "drive",
+    "true_label": "0",
+    "llm_response": "In this inquiry, we examine the word \"drive\" used in two distinct contexts across the sentences provided.\n\nIn Sentence 1, \"Drive the forest,\" the use of \"drive\" is somewhat ambiguous, but likely suggests movement through the forest, probably referring to moving a vehicle along a road in a forest or pushing through the forest in a forceful or directed manner.\n\nIn Sentence 2, \"She is driving away at her doctoral thesis,\" the word \"drive\" metaphorically refers to the act of working diligently and persistently on her doctoral thesis. This use of \"drive\" conveys a sense of purposeful and sustained effort towards achieving a goal, specifically in an academic or intellectual context.\n\nIn both uses, \"drive\" suggests a forward or progressive motion towards a goal, but the contexts \u2013 physical movement through a space versus academic endeavor \u2013 are fundamentally different. The core idea of moving forward or progressing is somewhat consistent, yet the applications are distinct enough to indicate a difference in meaning.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "keep",
+    "true_label": "1",
+    "llm_response": "In these two sentences, the word \"keep\" is used in a similar context. In both instances, \"keep\" conveys the meaning of maintaining or controlling a particular state or behavior. In Sentence 1, \"cool\" refers to calmness or composure, while in Sentence 2, \"temper\" refers to anger or irritation. The advice \"Keep your cool\" and \"Keep your temper\" both suggest controlling one's emotions, implying not to become overwhelmed by anger or lose composure.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "keep",
+    "true_label": "1",
+    "llm_response": "Both sentences use the word \"keep\" in a similar context, implying the action of storing something in a specific place to maintain its condition or for future use. In the first sentence, \"keep\" refers to storing food in the pantry, which is a place commonly used to store food items. In the second sentence, \"keep\" refers to storing batteries in the freezer, a method sometimes used to potentially extend battery life. The common theme in both uses of \"keep\" is the storage of items in specific conditions for preservation.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "stand",
+    "true_label": "0",
+    "llm_response": "The word \"stand\" in the two sentences is used with different meanings. \n\nIn Sentence 1: \"Where do you stand on the War?\" the word \"stand\" is used to inquire about a person's opinion or position on the issue of the war. Here, \"stand\" refers to a metaphorical or figurative position.\n\nIn Sentence 2: \"Standing water,\" the word \"stand\" refers to water that is stagnant or still, not flowing. This usage is literal and describes a physical state of the water.\n\nConsidering these differing uses\u2014one metaphorical about position/opinion and the other literal about the physical state, \"stand\" in these sentences does not have the same meaning. \n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "talk",
+    "true_label": "1",
+    "llm_response": "The target word in discussion is \"talk.\" \n\nIn Sentence 1, \"talk\" refers to the act of communicating, expressing one's thoughts or conveying information. Here, \"talk\" implies using alternative non-verbal methods to communicate instead of verbal language.\n\nIn Sentence 2, \"talk\" refers to the basic ability of a baby to articulate sounds or simple words \u2014 essentially the early stages of verbal communication.\n\nWhile both uses of \"talk\" relate broadly to communication, Sentence 1 implies a more adaptive and non-verbal method of interaction, while Sentence 2 directly refers to the initial verbal communication abilities in an infant. The contexts diverge significantly in detail and nature of the communication being referred to.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "see",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, the word \"see\" is used in the context of observing or noticing details intellectually or perceptually, suggesting a more active, careful, and focused way of looking. In Sentence 2, \"see\" is used to describe the physical ability of vision, specifically the lack thereof.\n\nThe difference in context between an active, detail-oriented observation and the basic physical ability to perceive visually with the eyes indicates that the meanings are distinct in each usage.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "range",
+    "true_label": "1",
+    "llm_response": "The word \"ranged\" is used in two different contexts in the provided sentences, resulting in distinct meanings:\n1. In the first sentence, \"ranged\" refers to the span or scope of something, in this case, the estimated financial losses of an earthquake. Here, it connotes the variance or spread in possible values ($2 billion in this context).\n2. In the second sentence, \"ranged\" describes the variation or diversity of musical instruments, from tubas to cymbals. This usage focuses on the spectrum or array of types of items, not their span in monetary or quantitative terms.\n\nThis difference in use \u2013 referring to a span of amounts in one and a diversity of types in the other \u2013 makes the meaning of \"ranged\" in each sentence markedly different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "luck",
+    "true_label": "1",
+    "llm_response": "In this scenario, the target word \"luck\" is used in two different contexts. In Sentence 1, \"luck\" refers to unfavorable or negative circumstances leading to someone's downfall. This usage implies a general sense of fortune but highlights the negative impact or results.\n\nIn Sentence 2, \"luck\" conveys a positive meaning, where it highlights fortunate or serendipitous circumstances, specifically finding money unexpectedly. This use of \"luck\" is decidedly beneficial and positive.\n\nThus, although \"luck\" generally pertains to the concept of fortune, the way it is construed in each sentence\u2014once negatively and once positively\u2014differs significantly. This variance in sentiment indicates that the meanings are too different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "see",
+    "true_label": "0",
+    "llm_response": "In this case, the target word is \"see.\" In Sentence 1, \"see\" is used in the sense of \"observe\" or \"view,\" specifically referring to wanting to look at outcomes or effects (results). In Sentence 2, \"see\" is employed in a different manner, meaning \"to check\" or \"to deal with\" the arrangements for lunch. \n\nThis usage shows a clear semantic shift from perceiving visually to handling a task. Therefore, the meanings of \"see\" in the two sentences are too different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "work",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, the target word \"worked\" refers specifically to engaging in a job or career primarily for monetary gain, and that he did not need to because of his inheritance.\n\nIn Sentence 2, the term \"worked\" is mentioned but without additional context, it could either align with the same meaning as in Sentence 1 (working in a job or career) or might imply something different (for instance, it might mean she never functioned or had effectiveness in a particular situation if additional context were to indicate such). However, based solely on what\u2019s provided, the most likely assumption aligns with the meaning applied in the first sentence \u2014 not engaging in a job or career. \n\nGiven that most common interpretation without further context tends towards employment, they both refer to not engaging in paid employment.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "move",
+    "true_label": "0",
+    "llm_response": "In these sentences, the word \"move\" is used in distinct contexts:\n\n1. \"To move in a matter\" typically means to take action or get involved in a particular issue or situation. Here, \"move\" conveys the idea of initiating action within a certain context or matter.\n2. \"She moved the queen closer to the centre of the board\" uses \"move\" in a literal, physical sense, referring to the action of physically relocating an object (in this context, a chess piece) from one position to another on the chessboard.\n\nGiven these differences, where the first denotes initiating action or participation and the second denotes physical relocation, the meanings are too distinct.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "use",
+    "true_label": "1",
+    "llm_response": "In the provided sentences, the target word \"use\" refers to different meanings:\n\n1. In Sentence 1: \"We can use this mathematical formula to solve the problem.\" - Here, \"use\" means to apply or utilize a specific tool or method (a mathematical formula) for a particular purpose (to solve a problem).\n\n2. In Sentence 2: \"We only use Spanish at home.\" - In this context, \"use\" means to employ or speak a particular language within a defined setting (at home).\n\nThe concept of \"use\" shifts from the action of applying a technique or tool in the first sentence, to the practice of speaking a language in the second. These are distinct contexts of application versus communication.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "feel",
+    "true_label": "1",
+    "llm_response": "In both sentences, the word \"feel\" is used to describe having a natural ability or sensitivity towards something, implying an intuitive understanding or talent. In the first sentence, it refers to music, and in the second, it refers to animals. Although what is being related to changes (music vs animals), the underlying meaning or usage of \"feel\" as having a natural intuition or aptitude for understanding or dealing with something remains consistent.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "fall",
+    "true_label": "1",
+    "llm_response": "In these sentences, the use of the word \"fall\" carries different meanings.\n\nIn Sentence 1, \"fall prey to\" is a phrase where \"fall\" is used in the sense of becoming a victim or succumbing to something negative, such as deception or manipulation by an imposter.\n\nIn Sentence 2, \"fell out of favor\" refers to a decrease in approval or popularity from others. The word \"fall\" here implies a decline from a positive state to a less favorable one.\n\nSince the context and implications of \"fall\" differ significantly between the two sentences, their meanings are quite distinct.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "process",
+    "true_label": "0",
+    "llm_response": "The word \"process\" in both sentences carries a different meaning based on their context. \n\nIn Sentence 1, \"Process iron\" refers to the physical or chemical treatment of iron to alter its properties or shape it into a finished product. This involves industrial techniques.\n\nIn Sentence 2, \"Process the applicants\" refers to the method of reviewing, evaluating, and perhaps selecting applicants for a particular purpose, often related to employment or admission into an institution. This involves administrative or evaluative procedures.\n\nSince the actions and contexts described by \"process\" in each sentence are quite distinct\u2014one being a physical transformation of materials and the other being an administrative procedure\u2014the meanings are too different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "carry",
+    "true_label": "1",
+    "llm_response": "In both sentences, the target word \"carry\" is used to indicate the action of holding or transporting something from one place to another. In the first sentence, \"carry\" refers to transporting \"camping gear,\" while in the second, it refers to transporting a \"package.\" Despite the objects being different (camping gear vs. package), the basic meaning and usage of the word \"carry\" remains the same \u2014 to hold and move an item from one location to another.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "check",
+    "true_label": "1",
+    "llm_response": "In this comparison, the target word \"check\" is used in two different contexts:\n\n1. In Sentence 1, \"Check into the rumor,\" the word \"check\" means to investigate or find out more about something, specifically the rumor.\n\n2. In Sentence 2, \"Check the time of the class,\" the word \"check\" refers to verifying or looking at something, in this case, the time when the class starts.\n\nDespite slight differences in context \u2014 investigating a rumor versus verifying a time \u2014 the core meaning of \"check\" as a process of seeking or verifying information remains consistent across both sentences. It connotes the act of gaining information, whether about a fact or schedule.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "session",
+    "true_label": "1",
+    "llm_response": "In the given sentences, the target word \"session\" is used differently. In Sentence 1, a \"training session\" refers to a period of time set aside for training purposes, typically involving learning or skill enhancement. In Sentence 2, \"recording session\" refers to a time period dedicated to recording music or audio, and \"session musicians\" describes musicians who are hired to perform during such recording sessions.\n\nThough both uses of \"session\" imply a dedicated period for a specific activity, the nature and context of these activities (training vs. recording/music) are sufficiently distinct to consider the meanings as different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "empty",
+    "true_label": "1",
+    "llm_response": "In both Sentence 1 and Sentence 2, the term \"empty\" means to remove all contents or substances inside something, leaving it devoid of content. In Sentence 1, the action focuses on removing water or other substances from a well or a cistern, and in Sentence 2, it specifically involves removing water from an unspecified container or area. The common theme is the act of removing substances to make the container or area free of content. Thus, the meaning of \"empty\" in both contexts is consistent and revolves around the concept of making something void of any material.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "operation",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, \"operation\" refers to an organized activity involving multiple countries or organizations, typically related to business or administrative actions. \n\nIn Sentence 2, \"operations\" refers to mathematical or computational processes executed by a machine (like a computer).\n\nTherefore, the meaning of \"operation\" in the two sentences differs significantly, involving distinct contexts and applications.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "heart",
+    "true_label": "0",
+    "llm_response": "The word \"heart\" in both sentences metaphorically refers to the central, most essential, or most important part. In the first sentence, \"heart\" is used to describe the core elements or values that define the Republican Party. In the second sentence, \"heart\" describes the central part of the struggle, indicating where the action or intensity is at its peak.\n\nDespite the different contexts (a political party in the first and a physical or metaphorical struggle in the second), the underlying meaning of \"heart\" as the core or most vital part holds in both sentences. Therefore, the usage of \"heart\" retains a similar essential meaning in both contexts.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "play",
+    "true_label": "0",
+    "llm_response": "The word \"play\" in these sentences carries different meanings. In the first sentence, \"Play the stock market\" refers to engaging in the buying, selling, or trading of stocks, which is metaphorically considered a form of playing due to its risky and speculative nature. In the second sentence, \"Who's playing now?\" the word \"play\" is likely used in the context of participating in a sport, game, or performance at the current moment. Thus, the contexts considerably differ.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "speech",
+    "true_label": "1",
+    "llm_response": "In the two sentences provided, the target word \"speech\" is used in somewhat different contexts. In Sentence 1, \"speech\" refers specifically to the content or style of spoken language, highlighting that it lacked certain regional expressions or idioms (southernisms). In Sentence 2, \"speech\" refers more generally to the manner of speaking, including the sound and pronunciation aspects, as indicated by the mention of an \"accent.\"\n\nHowever, the fundamental meaning in both sentences revolves around the act or manner of speaking, despite the subtle focus on different attributes (content vs. pronunciation). Thus, in assessing whether the meanings of \"speech\" are similar enough across both sentences, they can be considered sufficiently close, as both pertain to spoken language and its characteristics.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "make",
+    "true_label": "0",
+    "llm_response": "In this comparison, the target word is \"make/made\". \n\nIn Sentence 1, \"make\" is used in the sense of arriving at a place (Cincinnati) by a certain time, implying reaching or achieving a destination.\n\nIn Sentence 2, \"made\" is utilized to describe the act of being appointed or elected to a position (president of the club), indicating a formation or construction into a role.\n\nThese are distinct uses of the word; one refers to physical movement to a destination, while the other refers to the attainment of a status or position. Thus, the meanings in these sentences are different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "point",
+    "true_label": "0",
+    "llm_response": "In Sentence 1, the word \"point\" refers to the main idea or essence of something, in this case, the joke. It signifies the understanding or key aspect that makes the joke funny or meaningful.\n\nIn Sentence 2, the word \"point\" refers to the physical shape or condition of the cannibal's teeth, specifically being sharpened to have a tapered end, suitable for piercing or ripping.\n\nIn these contexts, the meanings of \"point\" differ significantly; one usage is abstract (meaning or essence), and the other is concrete (physical sharp tips).\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "post",
+    "true_label": "0",
+    "llm_response": "In both sentences, the word \"post\" refers to mail or items being delivered, although in the first sentence, it might specifically imply posting or sending mail, and in the second, it is about receiving it. Nonetheless, the underlying concept relates to mail correspondences.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "unit",
+    "true_label": "1",
+    "llm_response": "In this instance, the target word \"unit\" is used in two different contexts:\n\n1. In Sentence 1, \"unit\" refers to a basic element of linguistic structure, such as a word or morpheme, which represents a specific concept in language studies.\n2. In Sentence 2, \"unit\" refers to individual elements or components within a larger system, typically used in the context of organizations, machinery, or buildings.\n\nGiven these distinct contexts and meanings\u2014linguistic elements versus components of a system\u2014the meanings of \"unit\" in these sentences are considerably different.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "notice",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, the word \"notice\" refers to the act of informing someone, or a warning in advance, implying that there wasn't sufficient advance information or warning provided. Here, \"notice\" typically involves communication of information.\n\nIn Sentence 2, the word \"notice\" refers to a written or printed announcement, specifically mentioning a \"notice of sale.\" This implies a posted or publicized announcement intended to inform people about the sale event.\n\nIn these contexts, the meaning of \"notice\" shifts from a general information or alert in the first sentence to a specific formal announcement or advertisement in the second sentence. The core idea of conveying information remains, but the usage and specific context vary significantly - from a need for personal communication to a formal public declaration.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "size",
+    "true_label": "1",
+    "llm_response": "In Sentence 1, \"size\" refers to the physical dimensions or magnitude of the city, representing its scope or extent.\n\nIn Sentence 2, \"size\" refers to the amount or sum total presented on the bill, which likely indicates the cost or charge, which can be metaphorically understood as the 'magnitude' of the bill in financial terms.\n\nIn both sentences, \"size\" retains a similar conceptual core relating to the 'extent' or 'magnitude' of something, whether it's physically (in terms of area) or metaphorically (in terms of cost).\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "set",
+    "true_label": "1",
+    "llm_response": "The word \"set\" in both sentences refers to a group of people with particular, usually similar, interests or status. In Sentence 1, \"The country set\" signifies a social group associated with the country, likely implying those who live in, enjoy, or originate from rural areas. In Sentence 2, \"The smart set goes there\" also describes a social circle, this time specifying a group characterized by intelligence or perhaps intellectual interests.\n\nSince in both sentences \"set\" refers to a specific category or group of people, the meaning of \"set\" is consistent.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "head",
+    "true_label": "1",
+    "llm_response": "In both Sentence 1 and Sentence 2, the term \"head\" refers to a unit of count for livestock, specifically cattle. In Sentence 1, it pertains to counting 200 cattle, and in Sentence 2, it pertains to counting 200 cattle as well as 50 horses. Despite the additional mention of horses in the second sentence, the meaning of \"head\" in the context of counting cattle remains the same in both sentences.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "get",
+    "true_label": "0",
+    "llm_response": "In these sentences, the word \"get\" is used to inquire about understanding or acquisition respectively. \n\nSentence 1 uses \"get\" in the sense of comprehending or understanding something: \"Did you get it?\" typically means \"Did you understand it?\"\n\nSentence 2 uses \"get\" in the context of purchasing or acquiring something: \"What did you get at the toy store?\" asks about what items were bought.\n\nGiven that the meanings of \"get\" in these sentences pertain to different actions (understanding vs. purchasing), they differ significantly.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "admit",
+    "true_label": "1",
+    "llm_response": "The word \"admit\" has two distinct meanings in the provided sentences. In the first sentence, \"admit\" is used to mean \"allow to enter\" in a figurative sense, referring to allowing a thought to enter into consideration or mental acknowledgment. However, in the second sentence, \"admit\" is used in its more literal sense to mean \"allow entrance\" as in permitting physical access to a space.\n\nLabel: 0",
+    "pred_label": 0
+  },
+  {
+    "word": "hold",
+    "true_label": "1",
+    "llm_response": "In the first sentence \"To hold true,\" the word \"hold\" means to remain valid, or to continue to be true. It refers to a concept or belief maintaining its truth or validity over time.\n\nIn the second sentence \"The weather held,\" the word \"hold\" refers to the weather conditions remaining stable or not changing. Here, \"hold\" implies persistence or continuation of the current state of the weather.\n\nIn both cases, the general idea of \"holding\" involves maintaining or persisting in a state, albeit in different contexts\u2014one abstract (true) and one concrete (weather). Despite these differences, the core notion of remaining constant or unchanged is present in both uses.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "pain",
+    "true_label": "0",
+    "llm_response": "In both sentences, the word \"pain\" refers to a feeling of strong discomfort. In Sentence 1, \"pain\" is used in a metaphorical or emotional sense to describe the discomfort felt due to loneliness. In Sentence 2, \"pain\" refers to a physical sensation, specifically discomfort associated with medical symptoms.\n\nAlthough the type of discomfort is different (emotional vs. physical), the underlying concept of \"pain\" as an intense, unpleasant sensation remains consistent. The core meaning of the word, indicating a strong distressing experience, whether emotional or physical, aligns in both contexts.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "krona",
+    "true_label": "1",
+    "llm_response": "In these examples, the target word \"kronas\" refers to the currency known as the krona. \n\nIn Sentence 1, \"Piecas kronas -- five krona\" refers to a specific quantity of the currency, specifically five units of krona. \n\nIn Sentence 2, \"Kronas kurss -- the exchange rate of the krona\" refers to the financial value or trading rate of the krona in the context of currency exchange. \n\nDespite the different contexts \u2014 quantity in the first and financial value in the second \u2014 the underlying meaning of \"kronas\" remains consistent as it pertains to the currency itself. Thus, the meaning of \"kronas\" in both sentences is similar relating to the Swedish or another applicable country's currency.\n\nLabel: 1",
+    "pred_label": 1
+  },
+  {
+    "word": "tomorrow",
+    "true_label": "1",
+    "llm_response": "The word \"tomorrow\" in both sentences refers to the concept of the future or the time or day after today. In Sentence 1, \"tomorrow\" is used to represent a future time when people hope things will improve. In Sentence 2, \"Tomorrow's world\" similarly refers to what the future holds, specifically looking at how the world will be. Thus, in both cases, \"tomorrow\" maintains its meaning related to the future.\n\nLabel: 1",
+    "pred_label": 1
+  }
+]
