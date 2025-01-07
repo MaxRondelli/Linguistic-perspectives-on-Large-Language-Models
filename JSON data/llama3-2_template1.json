@@ -2,601 +2,601 @@
     {
         "word": "day",
         "true_label": 1,
-        "pred_label": 1,
-        "llm_response": "The target words 'day' have somewhat similar meanings, as they both refer to units of time. However, the context and connotation are slightly different. Sentence 1 uses 'day' as an idiomatic expression referring to a period of time in which someone achieved success or prominence, whereas Sentence 2 uses it in a more literal sense, referring to a specific era in history.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target words 'day' and 'days' have slightly different meanings, with 'day' generally referring to a single period of time, whereas 'days' can refer to multiple periods of time.\n\n Label: 0"
     },
     {
         "word": "grip",
         "true_label": 1,
-        "pred_label": 1,
-        "llm_response": "The meaning of the word \"grip\" is similar between the two sentences, as it refers to a tight hold or grasp.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target word 'grip' has two distinct meanings in the given sentences. In Sentence 1, 'grip' refers to the tight hold or control something has over someone or something, often implying a sense of power or authority. On the other hand, in Sentence 2, 'grip' is used to describe a feature of something (in this case, the rock), suggesting a type of handle or texture.\n\nLabel: 0"
     },
     {
         "word": "absence",
         "true_label": 1,
-        "pred_label": 0,
-        "llm_response": "The two sentences convey slightly different meanings, with Sentence 1 referring to a lack or nullity of something (in this case, an explanation), and Sentence 2 using the phrase as a common idiom suggesting that being apart from someone can strengthen one's love for them.\n\n Label: 0"
+        "pred_label": 1,
+        "llm_response": "The two sentences use the target word \"absence\" in different contexts, but both convey the idea of something being lacking or missing. In Sentence 1, \"absence\" refers to a lack of something (an explanation), while in Sentence 2, it is used figuratively to describe the effect of time apart on one's feelings towards someone.\n\nWhile the meanings are not identical, they share a common thread of implying something is missing or lacking. Therefore, I would classify the similarity between the two sentences as 'absence' having a similar meaning as 1.\n\nLabel: 1"
     },
     {
         "word": "touch",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The meaning of the word 'touch' is quite similar between the two sentences, as both refer to making physical contact or having an influence on something.\n\n Label: 1"
+        "llm_response": "The target word \"touch\" has similar meanings in both sentences, as it implies a gentle and delicate interaction with something or someone, whether it's physical (hand) or metaphorical (room).\n\nLabel: 1"
     },
     {
         "word": "follow",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The meaning of the word 'follow' in both sentences is similar, as it implies adhering to a path, rule, or action. In Sentence 1, it means to adhere to the laws of an ancient religion, while in Sentence 2, it means to proceed along a road.\n\nLabel: 1"
+        "llm_response": "The target words \"follow\" in both sentences have similar meanings, where one sentence uses it to describe adhering to or obeying a set of rules or principles (laws and a religion), and the other sentence uses it as an imperative verb, instructing someone to move along a path (the road).\n\nLabel: 1"
     },
     {
         "word": "silence",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The target words \"silence\" and the context of both sentences indicate that they convey a request for quietness, with Sentence 1 implying a need for stillness or quietness for restful sleep, and Sentence 2 indicating a need to stop talking or noise.\n\nSince both sentences are related to the concept of quietness and both target words (\"silence\") are synonyms in this context. \n\nLabel: 1"
+        "llm_response": "The two sentences convey similar meanings, with the first sentence implying a need for quiet and the second sentence requesting that someone be quiet. However, the first sentence often has a more personal connotation, suggesting a desire for solitude or calmness, whereas the second sentence is more formal and can be used in a wider range of situations.\n\nLabel: 1"
     },
     {
         "word": "break",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target words 'break' have similar meanings, but with slightly different connotations and usage contexts. In Sentence 1, \"Break a record\" implies setting a new maximum or achieving a notable success. In Sentence 2, \"Voices broke in the air\" suggests that the voices are suddenly becoming audible or clear, often due to some disturbance or disruption.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target word \"break\" in sentence 1 has a meaning related to surpassing or exceeding a limit, whereas in sentence 2, it means that voices are becoming audible or emerging from a source.\n\nAlthough both sentences contain the word \"break\", their meanings are quite different and unrelated. The primary function of the word \"break\" differs significantly between the two contexts.\n\n\nLabel: 0"
     },
     {
         "word": "now",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target word \"now\" has similar meanings in both sentences, as it emphasizes the present moment or opportunity. In Sentence 1, \"now\" indicates that there's no delay or future time better suited for taking action. Similarly, in Sentence 2, \"now\" signifies a suitable or opportune moment to perform an action.\n\nLabel: 1"
+        "llm_response": "The two sentences convey similar meanings, with the emphasis on \"now\" being about timing and opportune moments. However, Sentence 1 focuses more on the idea that \"now\" represents a particular point in time when the best opportunity arises, whereas Sentence 2 uses \"now\" to indicate a present moment suitable for taking action.\n\nLabel: 1"
     },
     {
         "word": "conflict",
         "true_label": 0,
-        "pred_label": 0,
-        "llm_response": "The target words 'conflict' appear in both sentences, but their usage conveys slightly different meanings.\n\nIn Sentence 1, \"conflict\" refers to a state of rivalry or opposition between two groups or parties, specifically the government and the rebels.\n\nIn Sentence 2, \"conflict\" is used metaphorically to describe an internal struggle or dilemma, where there is a clash between different loyalties.\n\nAlthough both sentences use the same word, their meanings are related but distinct. The first sentence implies a external, tangible conflict, while the second sentence suggests an internal, abstract one.\n\nLabel: 0"
+        "pred_label": 1,
+        "llm_response": "The two sentences convey a sense of opposition or disagreement, but they have different connotations. In Sentence 1, \"conflict\" refers to a physical or armed struggle between two opposing groups, whereas in Sentence 2, it suggests an internal or emotional turmoil.\n\nWhile both sentences use the word \"conflict\", their meanings are not identical. The first sentence implies a sense of violence and aggression, whereas the second sentence is more abstract and introspective. However, they do share some similarities in that both sentences describe a state of tension or disagreement.\n\nLabel: 1"
     },
     {
         "word": "erase",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The meaning of \"erase\" in both sentences is similar, as it refers to removing or deleting something (in this case, a formula or an entire group of people).\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target word 'erase' in both sentences conveys a sense of removing or deleting something, but the context and implication are slightly different. In Sentence 1, it's about correcting an error by removing information from the blackboard. In Sentence 2, it implies a more severe and violent act of elimination. While related, the meanings aren't identical.\n\nLabel: 0"
     },
     {
         "word": "head",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The two sentences convey related ideas, with \"head\" being used figuratively in both cases. In Sentence 1, it's likely referring to a person's leadership or authority (\"the head\"), while in Sentence 2, it's used metaphorically to describe an idea or phrase that is repeated over and over in one's mind.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "Both sentences use the word \"head\" as a noun, but its meaning is different in each context. In the first sentence, it refers to the source of water or the upper part of a container, whereas in the second sentence, it means that a phrase or idea is constantly repeated or stuck in one's mind.\n\nLabel: 0"
     },
     {
         "word": "connect",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"connect\" is similar between the two sentences.\n\nLabel: 1"
+        "llm_response": "The target words 'connect' have similar meanings in both sentences, as they are used to establish a link or association between two things.\n\nLabel: 1"
     },
     {
         "word": "deal",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target word \"deal\" has a similar meaning in both sentences, as it can refer to a mutually beneficial agreement or arrangement (in Sentence 1) and an unfavorable situation or price (in Sentence 2). Although the connotations are opposite, the core concept of \"deal\" is preserved.\n\n\nLabel: 1"
+        "llm_response": "The target word 'deal' can be interpreted as a fair agreement or arrangement in both sentences, with Sentence 1 implying that the speaker feels they should receive a break or favor (\"it's your deal\"), and Sentence 2 indicating that the speaker felt they didn't get a fair opportunity to make progress or improve their situation (\"I didn't have a good deal\"). \n\nLabel: 1"
     },
     {
         "word": "take",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target word \"take\" has a similar meaning in the two sentences, as it can refer to both physical possession (e.g., taking something) and performing an action (e.g., taking an action).\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The words \"take\" in both sentences convey a sense of performing an action, but they differ in their context and connotation. In the first sentence, \"take\" is associated with obtaining something (in this case, a newspaper), whereas in the second sentence, it implies initiating or undertaking a specific task.\n\nWhile both sentences use the same word, their meanings are not identical due to the distinct contexts in which they appear. The first sentence focuses on acquisition, whereas the second sentence emphasizes initiation or action.\n\nLabel: 0"
     },
     {
         "word": "unravel",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target word \"unravel\" has a meaning that is similar in both sentences, as it refers to the act of coming apart or disentangling something, whether it's a seam on a tablecloth or a ball of wool.\n\nLabel: 1"
+        "llm_response": "The target word 'unravel' has a similar meaning in both sentences, as it refers to the act of coming apart or being disentangled.\n\nLabel: 1"
     },
     {
         "word": "break",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target words \"break\" in the two sentences have similar meanings, specifically in the context of causing something to shatter or become non-functional.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The two sentences convey different meanings of the target word \"break\". In Sentence 1, \"make or break\" is an idiomatic expression that means to determine someone's success or failure in a critical situation. In Sentence 2, \"the figurine broke\" literally means that the object (figurine) suffered physical damage due to a sudden release of energy.\n\nLabel: 0"
     },
     {
         "word": "raise",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target word \"raise\" has similar meanings in both sentences, as it can refer to the act of providing financial support (family) or promoting someone to a position of power (office). Both sentences convey the idea of elevating or improving something.\n\nLabel: 1"
+        "llm_response": "The target words \"raise\" in both sentences have similar meanings, particularly when it comes to increasing or enhancing something (in this case, a family or someone's stature). However, the context and connotation of the word differ slightly between the two sentences.\n\nIn Sentence 1, \"raise a family\" typically implies building and nurturing a household with children. In contrast, Sentence 2 uses \"raise somebody to office,\" which can imply promoting or elevating someone to a higher position, often within an organization or government.\n\nWhile both meanings are related to growth or improvement, the nuances of the word's application differ between sentences.\n\nLabel: 1"
     },
     {
         "word": "pay",
         "true_label": 1,
-        "pred_label": 0,
-        "llm_response": "The meaning of the target word 'pay' in Sentence 1 is \"to receive money\" and in Sentence 2, it means \"to give attention to something\". Although these meanings are related to the idea of compensation or action, they are distinct and unrelated.\n\n Label: 0"
+        "pred_label": 1,
+        "llm_response": "The target word 'pay' has a similar meaning in both sentences, with Sentence 1 referring to financial compensation (the annual amount received) and Sentence 2 referring to the act of giving due attention or regard.\n\nLabel: 1"
     },
     {
         "word": "develop",
         "true_label": 0,
         "pred_label": 0,
-        "llm_response": "The meanings of \"develop\" are somewhat related but also quite different in these two sentences.\n\nIn Sentence 1, \"develop\" is used to mean creating or expanding an opportunity or resource (in this case, a market) for something new (the mobile phone). This sense of the word often implies a deliberate and planned effort.\n\nIn Sentence 2, \"develop\" is used to describe breasts that are well-shaped, mature, and aesthetically pleasing. This sense of the word typically implies physical maturation or improvement.\n\nSince these two sentences use \"develop\" with distinct meanings, I would classify them as having too different meanings.\n\nLabel: 0"
+        "llm_response": "The two sentences use the same word \"develop\" but in different contexts, which suggests that they do not convey the same meaning. In Sentence 1, \"develop\" means to create or establish something, such as a market. In Sentence 2, \"developed\" is an adjective used to describe breasts that are mature and fully grown.\n\nLabel: 0"
     },
     {
         "word": "drink",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"drink\" in both sentences is similar, as it refers to the act of consuming a beverage.\n\nLabel: 1"
+        "llm_response": "The two sentences convey a similar meaning, as \"drink\" is used to refer to the act of consuming liquids in both instances.\n\nLabel: 1"
     },
     {
         "word": "tell",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The two sentences convey somewhat similar meanings, as both are related to conveying information or giving instructions. However, Sentence 2 has a more formal and specific context (giving directions) compared to Sentence 1, which is more conversational and focused on emotional expression.\n\nLabel: 1"
+        "llm_response": "The target word 'tell' has a similar meaning in both sentences, as it is used to convey information or express an idea.\n\nLabel: 1"
     },
     {
         "word": "evil",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"evil\" in both sentences is somewhat similar, as it refers to something morally reprehensible or malevolent. However, the usage and context are slightly different.\n\nIn Sentence 1, \"evil\" is used to describe a concept or phenomenon that is being investigated or discussed, likely in an academic or philosophical sense. \n\nIn Sentence 2, \"evil\" is used as an idiomatic expression meaning \"harmful or malevolent actions\", often referring to unpleasant or annoying behavior.\n\nWhile the core meaning of the word remains similar, the context and connotation differ slightly, suggesting that the usage might not be identical in all cases.\n\n\nLabel: 1"
+        "llm_response": "The two sentences convey a similar meaning, as both imply the presence of something negative or malevolent. However, \"evils\" in Sentence 2 is an archaic or poetic term for \"evil actions,\" and may be used more figuratively to express frustration or annoyance.\n\nLabel: 1"
     },
     {
         "word": "conflict",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"conflict\" in both sentences is similar, as it refers to a state of disagreement or opposition between different ideas, groups, or interests.\n\n Label: 1"
+        "llm_response": "The target word \"conflict\" has a similar meaning in both sentences, with Sentence 1 referring to a disagreement or difference of opinion between two groups (Republicans and Democrats), while Sentence 2 refers to a situation where someone's personal interest or loyalty is at odds with their professional obligations.\n\nLabel: 1"
     },
     {
         "word": "school",
         "true_label": 0,
         "pred_label": 0,
-        "llm_response": "The meaning of the word \"school\" is not directly related in both sentences, as one refers to an educational institution and the other refers to a group of fish. \n\nLabel: 0"
+        "llm_response": "The target words \"school\" have different meanings in the two sentences, with Sentence 1 referring to an educational institution and Sentence 2 referring to a group of fish swimming together.\n\nLabel: 0"
     },
     {
         "word": "purchase",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"purchase\" is somewhat similar in both sentences. In Sentence 1, it implies that $50 cannot afford to buy something, which conveys an idea of inability to obtain or acquire something. In Sentence 2, it refers to acquiring ownership or right to something, like land or a house.\n\nLabel: 1"
+        "llm_response": "The two sentences convey similar meanings related to acquiring something (a dress and land/house). Both involve the concept of obtaining ownership or access.\n\nLabel: 1"
     },
     {
         "word": "point",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The meaning of \"point\" in both sentences refers to a sharp end or a location. In Sentence 1, it's referring to a specific position or spot on an object (the compass), whereas in Sentence 2, it's referring to a small, distinct mark or outline (the row of points). Although the meanings are related, they are not identical, so I would classify them as similar but not exact.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target word \"point\" can have multiple meanings depending on the context, but in both sentences provided, it refers to a distinct location or feature.\n\n\nIn Sentence 1, \"He checked the point on his compass,\" the target word \"point\" likely refers to a specific direction or location on the compass, such as a magnetic pole or an arrow indicating direction.\n\n\nIn Sentence 2, \"A row of points,\" the target word \"points\" (not exactly \"point\") is a plural noun referring to a series of distinct locations, shapes, or features.\n\n\nAlthough the meanings are somewhat related (both involving distinct locations or features), they are not identical due to grammatical differences in number (singular vs. plural) and context (direction vs. row).\n\n\nLabel: 0"
     },
     {
         "word": "begin",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The two sentences convey similar meanings, both referring to the starting point or initial phase of something. In Sentence 1, \"begin\" is used to initiate an action (smoking a cigar), while in Sentence 2, it's used to describe the start of a sequence or period (the beginning of property ownership). The contexts are different, but the core meaning remains the same.\n\nLabel: 1"
+        "llm_response": "The target word \"begin\" has similar meanings in both sentences, particularly when referring to the act of starting something. In the first sentence, it implies starting an activity related to smoking a cigar, and in the second sentence, it refers to the point at which a process or event starts (the property begins with trees).\n\nLabel: 1"
     },
     {
         "word": "head",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target word \"head\" has a similar meaning in both sentences, as it refers to the idea of something being mentally present or stuck with one's mind.\n\nLabel: 1"
+        "llm_response": "The target word 'head' has a similar meaning in both sentences, with the first sentence referring to the mental state of having a phrase or idea stuck in one's mind and the second sentence using a more colloquialism phrase \"through my head\" to describe the persistence of a song in one's thoughts.\n\nLabel: 1"
     },
     {
         "word": "play",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The meaning of the word \"play\" in both sentences is similar in that it implies an action of engaging in a recreational activity, albeit with different objects.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target words \"play\" in both sentences are used to convey different meanings. In Sentence 1, \"play\" implies using or having fun with something (in this case, a hooked fish), which is a common idiomatic expression. \n\nIn Sentence 2, \"played\" indicates that the $20 was spent on an item (the new horse).\n\nAlthough related, the contexts and connotations of these words differ significantly.\n\nLabel: 0"
     },
     {
         "word": "start",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The two sentences convey the same meaning of being startled or surprised, where \"a start\" is used figuratively to describe a sudden and brief pause or interruption in one's activity or sleep.\n\nLabel: 1"
+        "llm_response": "The target word 'start' has a similar meaning in both sentences, as it is used to describe the sudden noise or shock that woke him up.\n\nLabel: 1"
     },
     {
         "word": "baby",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target words \"baby\" and its usage in both sentences convey a similar meaning, specifically referring to a young human. \n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "Both sentences use the word \"baby\" to refer to a human being in an immature state, likely under the age of one year old. However, Sentence 2 uses the term more figuratively, referring to the Supreme Court building's central statue or fountain as its \"baby\". The context is different, with Sentence 1 referring to pregnancy and birth, while Sentence 2 refers to a work of art.\n\nLabel: 0"
     },
     {
         "word": "throw",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The target words 'throw' in the two sentences have similar meanings, but they differ in context and connotation. In Sentence 1, 'threw' implies physical action of ejecting or expelling someone from a vehicle (in this case, a horse). On the other hand, in Sentence 2, 'throw' is used as an idiomatic expression meaning to glance or look briefly at something.\n\nLabel: 1"
+        "llm_response": "The target words \"throw\" in both sentences have related meanings, as they both involve the act of projecting something (the horse's rider or an object) or directing attention to someone/something (a glance). However, their connotations and contexts differ slightly.\n\nLabel: 1"
     },
     {
         "word": "theater",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target words \"theater\" and both sentences convey a geographical region, specifically military regions or areas of conflict. The concept of a \"theater\" implies a specific geographic area where operations are conducted.\n\nLabel: 1"
+        "llm_response": "Both sentences refer to a geographic region associated with military campaigns, specifically theaters of operation or areas where conflicts took place. The context is similar, implying a connection to a particular region's involvement in military activities.\n\nLabel: 1"
     },
     {
         "word": "get",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The meaning of the word 'get' in both sentences is similar.\n\nLabel: 1"
+        "llm_response": "The target words \"get\" in both sentences have similar meanings, as they are used to refer to obtaining something. In Sentence 1, \"get\" is used as a verb to indicate acquiring something at a store, and in Sentence 2, it's also used as a verb to describe failing to obtain information about someone.\n\nLabel: 1"
     },
     {
         "word": "hit",
         "true_label": 1,
-        "pred_label": 0,
-        "llm_response": "The target words 'hit' appear to have different meanings in the two sentences. In Sentence 1, 'hit' refers to arriving at or reaching a destination (in this case, Detroit) on time. In Sentence 2, 'hit' is used to refer to making contact with something, likely a computer mouse, as it's being mentioned in relation to an operating machine.\n\n Label: 0"
+        "pred_label": 1,
+        "llm_response": "The target word 'hit' is used in both sentences, but its meaning is somewhat different depending on the context. In Sentence 1, 'hit' likely refers to arriving or reaching a destination (in this case, Detroit). However, in Sentence 2, 'hit' probably means to start using or activating something (the MAC machine).\n\nAlthough the words are used in similar ways in both sentences (i.e., as verbs), their meanings are not identical. Therefore, I would categorize the similarity of meaning as moderate.\n\nLabel: 1"
     },
     {
         "word": "development",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The target words \"development\" in both sentences convey the idea of improvement or progress. In Sentence 1, it refers to the process of creating pictures, while in Sentence 2, it describes a change in opinion or attitude after learning something new.\n\nLabel: 1"
+        "llm_response": "The target words \"development\" in both sentences refer to progress or advancements in a particular area, such as an idea or project. In Sentence 1, it refers to the process of making pictures, while in Sentence 2, it refers to new information or changes that have occurred.\n\nWhile the meanings are not identical, they are related and share a common core concept. The usage is also similar, with both sentences using \"development\" as a noun to describe an event or situation.\n\nLabel: 1"
     },
     {
         "word": "bum",
         "true_label": 1,
-        "pred_label": 0,
-        "llm_response": "The target word \"bum\" has a different meaning in each sentence. In Sentence 1, it refers to someone who is incompetent or of poor quality, while in Sentence 2, it is used to refer to an unruly or unwanted person.\n\n Label: 0"
+        "pred_label": 1,
+        "llm_response": "The target word 'bum' in both sentences has a similar meaning, referring to someone who is considered unskilled or incompetent, particularly in a profession.\n\nLabel: 1"
     },
     {
         "word": "shade",
         "true_label": 1,
-        "pred_label": 0,
-        "llm_response": "The target word \"shade\" in Sentence 1 implies a specific area of partial light or a shadowy region, whereas in Sentence 2, it is used figuratively to describe a gradual transition from one color to another.\n\nExplanation: Although both sentences use the word \"shade\", their meanings are not identical. In the first sentence, \"shade\" refers to an actual physical shadow, whereas in the second sentence, it describes a metaphorical transition or blending of colors.\n\nLabel: 0"
+        "pred_label": 1,
+        "llm_response": "The two sentences convey a similar meaning of providing partial light obstruction or reduction, rather than an absolute absence of light.\n\n\nLabel: 1"
     },
     {
         "word": "match",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "After analyzing the two sentences, I determine that the meaning of the target word \"match\" is similar.\n\nIn both sentences, \"match\" refers to a comparison or alignment between two things. In Sentence 1, it implies that there is no compatibility or similarity between the speaker's interests and someone else's interests. In Sentence 2, it suggests a competition or rivalry where athletes from one side are pitted against those from another side.\n\nThe meanings of \"match\" in these two contexts share a common thread - indicating a connection, opposition, or conflict between entities. Therefore, I label the similarity of meaning as:\n\n1 \n\nLabel: 1"
+        "llm_response": "The two sentences convey a similar meaning, but with a slight nuance difference in context. In Sentence 1, \"match\" implies a lack of similarity or compatibility between the speaker's and someone else's interests. In Sentence 2, \"match\" is used to refer to a sporting competition where teams compete against each other.\n\nLabel: 1"
     },
     {
         "word": "treat",
         "true_label": 0,
-        "pred_label": 0,
-        "llm_response": "The meaning of the target word 'treat' is somewhat similar in both sentences, but not identical. In Sentence 1, 'treat' implies handling the situation with a sense of humor or lightness, as if it's not a serious matter. \n\nOn the other hand, in Sentence 2, 'treat' means to provide medical attention or care to someone who is ill or injured.\n\nAlthough the meanings are related (both involve providing care), they differ in connotation and context, making them not exactly synonymous.\n\nLabel: 0"
+        "pred_label": 1,
+        "llm_response": "The target word \"treat\" has similar meanings in both sentences, with Sentence 1 using it to imply that someone is being playful or joking about something, and Sentence 2 using it to mean providing medical care or attention.\n\nLabel: 1"
     },
     {
         "word": "academy",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target words \"academy\" in both sentences have similar meanings, but with a subtle difference in context and connotation. In the first sentence, it refers to a specific institution for military education and training, whereas in the second sentence, it is associated with a prestigious cultural organization.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "Both sentences describe institutions, but with slightly different meanings.\n\nIn Sentence 1, \"academy\" refers to a military school in the United States, specifically the United States Military Academy at West Point.\n\nIn Sentence 2, \"Academy\" (with a capital 'A') likely refers to the Acad\u00e9mie fran\u00e7aise, an institution that promotes and protects the French language and culture.\n\nAlthough related, these contexts have distinct connotations: one is a formal educational institution for military training, while the other is a prestigious cultural institution focused on the preservation of the French language. \n\nLabel: 0"
     },
     {
         "word": "emission",
         "true_label": 0,
         "pred_label": 0,
-        "llm_response": "The meaning of the target word \"emission\" in Sentence 1 is related to the release or outflow of something, such as heat. \n\nHowever, in Sentence 2, \"emission\" refers to the expulsion or discharge of blood, which seems more related to a medical context.\n\nThese two meanings are quite different, with one being environmental and the other being biological or medical.\n\nLabel: 0"
+        "llm_response": "The target words \"emission\" have different meanings in the two sentences, with the first sentence referring to the release or output of heat, and the second sentence referring to the presence of blood.\n\n Label: 0"
     },
     {
         "word": "return",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "This target word 'return' has similar meanings in both sentences, as \"the return\" in Sentence 1 refers to the coming back or re-emergence of spring, while \"average return\" in Sentence 2 refers to the gain or profit earned from an investment. \n\nLabel: 1"
+        "llm_response": "The target word \"return\" has a similar meaning in both sentences. In the first sentence, it refers to the reappearance or arrival of spring. In the second sentence, it refers to the profit gained from an investment or the amount earned as interest.\n\nLabel: 1"
     },
     {
         "word": "practice",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of \"practice\" is similar to both sentences, as it implies repeated attempts to achieve something (perfection in Sentence 1 and proficiency in performing a skill in Sentence 2). The word's usage conveys a sense of repetition or training to improve skills.\n\nLabel: 1"
+        "llm_response": "The target word \"practice\" has a similar meaning in both sentences, as it is used to refer to the repetition or rehearsal of an activity or skill in order to improve or become proficient.\n\nLabel: 1"
     },
     {
         "word": "give",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The target word \"give\" has a similar meaning in both sentences, but with different connotations. In Sentence 1, \"give\" implies the act of granting something, such as a divorce. In Sentence 2, \"gave\" is the past tense of \"give\", which can also mean to yield or succumb to pressure.\n\nLabel: 1"
+        "llm_response": "The meaning of the word \"give\" in both sentences is similar, as it implies an action of surrendering, yielding, or providing something (in the first sentence) and being overcome by external forces (in the second sentence). However, one is a request for separation, while the other describes physical strength failing.\n\n\nLabel: 1"
     },
     {
         "word": "interrupt",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The target words \"interrupt\" in both sentences have a similar meaning, specifically related to stopping or breaking into someone else's activity or conversation.\n\nLabel: 1"
+        "llm_response": "The target words 'interrupt' have similar meanings, but in slightly different contexts. In Sentence 1, 'interrupt' implies stopping or pausing someone while they are speaking or engaging in an activity (in this case, reading). In Sentence 2, 'interrupt' is used to describe the act of breaking into a program or broadcast to deliver additional information.\n\nLabel: 1"
     },
     {
         "word": "block",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target word \"block\" has similar meanings in both sentences. In Sentence 1, it means to prevent or obstruct something from happening or moving, often physically. In Sentence 2, \"blocked\" is a verb form that also implies obstruction or prevention, but with a specific action of wetting and pinning mittens. Although the context and method differ, the core meaning of \"block\" as an action to hinder or prevent is preserved.\n\nLabel: 1"
+        "llm_response": "The target word \"block\" has a meaning similar to 'shape or prevent movement', as seen in Sentence 1, but also implies a physical obstruction or shape for an object, as indicated by Sentence 2.\n\nLabel: 1"
     },
     {
         "word": "break",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "Both sentences use the target word \"break\" to convey an action of ceasing or stopping something.\n\nThe meaning of the two sentences is similar, but with some nuance. In Sentence 1, \"break a circuit\" implies a physical interruption, such as cutting off electricity. In Sentence 2, \"break a promise\" implies a failure to fulfill an obligation or commitment. While both actions involve ceasing something, the context and nature of the action differ.\n\nLabel: 1"
+        "llm_response": "Both sentences convey the idea of violating an agreement or causing something to be disconnected, but \"break\" can also imply physical force (as in breaking a thing) or psychological impact (as in breaking someone's heart). Although the primary meaning is similar, there are nuances in the connotation and context.\n\nLabel: 1"
     },
     {
         "word": "approach",
         "true_label": 1,
         "pred_label": 0,
-        "llm_response": "The meaning of \"approach\" in both sentences is similar, but not identical. In Sentence 1, it means to come near a place or location, whereas in Sentence 2, it can imply something more negative, such as getting too close or being aggressive towards an object or person. The context and connotation are different.\n\n Label: 0"
+        "llm_response": "The two sentences convey slightly different meanings, with Sentence 1 indicating a movement towards a destination (the city), whereas Sentence 2 implies a closer or more direct proximity to something (the house) that should be avoided.\n\nLabel: 0"
     },
     {
         "word": "thing",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target word \"thing\" in both sentences refers to an object, entity, or concept that is being referred to or discussed. Although the context and surrounding words may vary, the core meaning of the word remains similar.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The meanings of the target word 'thing' in both sentences are quite different. In Sentence 1, 'thing' refers to an object or entity that is being referred to, but its specific identity or nature is unclear. In Sentence 2, on the other hand, 'same thing' means the same idea or concept expressed differently, often with alternative words.\n\nLabel: 0"
     },
     {
         "word": "shape",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The target word \"shape\" has similar meanings in both sentences, with Sentence 1 referring to giving a form or appearance to an object (in this case, the dough), and Sentence 2 referencing creating a two-dimensional representation of something (a figure).\n\nLabel: 1"
+        "llm_response": "Both sentences use the word \"shape\" to refer to the act of giving a particular form or appearance, with Sentence 1 implying the act of modifying dough and Sentence 2 referring to creating an object with a specific outline.\n\nLabel: 1"
     },
     {
         "word": "beat",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The meanings of the target word \"beat\" in the two sentences are similar, but not identical. \n\nIn Sentence 1, \"beat\" is used to mean to strike or punch oneself, often as a sign of grief, anger, or remorse.\n\nIn Sentence 2, \"beats\" is a verb that means to surpass or exceed someone or something, often in terms of strength, quality, or performance. The exclamation mark suggests strong emotions, but the word itself implies comparison rather than physical action.\n\n Label: 1"
+        "pred_label": 0,
+        "llm_response": "The meaning of the target word \"beat\" in Sentence 1 is related to physical action, implying to strike oneself, whereas in Sentence 2, it means to surpass or outdo someone. Although both sentences use the same word \"beat,\" their meanings are not identical due to the differences in context and connotation.\n\nLabel: 0"
     },
     {
         "word": "buy",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target words 'buy' in both sentences have similar meanings, specifically referring to the act of acquiring or purchasing something.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The two sentences convey different meanings, with the first sentence implying the act of purchasing something as a gift or an acquisition, and the second sentence using \"buy\" in a more literal sense to pay for something (in this case, a ride).\n\nLabel: 0"
     },
     {
         "word": "mark",
         "true_label": 0,
         "pred_label": 0,
-        "llm_response": "The two sentences convey different meanings for the target word \"mark\". In Sentence 1, \"mark\" refers to an action or an event (the anniversary), whereas in Sentence 2, it refers to a symbol or a signature that indicates something (the border). These are distinct and opposite connotations. \n\nLabel: 0"
+        "llm_response": "The two sentences convey different meanings for the target word \"mark\". In Sentence 1, \"mark\" is used to describe an action or event (the citizens marking the anniversary), whereas in Sentence 2, \"marks\" is a verb meaning to leave a visible impression or indication (the sign marks the border). Although related concepts, they have distinct grammatical and semantic functions.\n\nLabel: 0"
     },
     {
         "word": "top",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The meanings of the target word 'top' are similar in both sentences. In Sentence 1, it refers to a garment worn on the upper part of the body, while in Sentence 2, it denotes a specific position or level (the \"top\" of the fifth inning). Although the context is different, the core meaning of referring to an uppermost point remains consistent.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The two sentences use the word \"top\" to refer to different concepts. In Sentence 1, \"top\" is used to describe a part of clothing, while in Sentence 2, \"top\" refers to a specific position or inning in a baseball game.\n\nLabel: 0"
     },
     {
         "word": "throat",
         "true_label": 1,
-        "pred_label": 1,
-        "llm_response": "In both sentences, \"throat\" refers to an opening or passage through which something passes or flows.\n\nThe phrase \"the throat of a chimney\" likely means the flue or vent that allows smoke to escape from the chimney. This usage is figurative and describes the passage as a narrow, sometimes difficult to navigate, opening.\n\nSimilarly, in \"the throat of the vase\", it's possible to interpret this as referring to the neck or narrowest part of the vase, where water or liquid flows through it.\n\nGiven these explanations, I'd say that the meanings are similar.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target words \"throat\" in both sentences refer to an opening in a structure that allows air to pass through, but in different contexts. In the first sentence, it's the narrow passage at the top of a chimney, while in the second sentence, it's the neck or narrow part of a vase.\n\nLabel: 0"
     },
     {
         "word": "source",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The meaning of the target word \"source\" in both sentences refers to the origin or starting point of something, such as a river or an idea. The context is slightly different, but the core meaning remains the same.\n\nLabel: 1"
+        "llm_response": "The target words \"source\" in both sentences have similar meanings, with Sentence 1 referring to the origin or starting point of a river, and Sentence 2 referring to finding the origin or beginning of something (a quotation). \n\nLabel: 1"
     },
     {
         "word": "beat",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "In both sentences, the word \"beat\" is used in a verb form to indicate the action of mixing or striking something repeatedly.\n\n Label: 1"
+        "llm_response": "Both sentences are referring to the action of mixing or striking something, but with different objects (cream and egg whites). However, in both cases, it involves manipulating a physical substance to change its state or consistency.\n\nLabel: 1"
     },
     {
         "word": "use",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The two sentences convey similar meanings, as both are discussing the application or purpose of something. In Sentence 1, \"use\" refers to the act of utilizing or employing something (in this case, narcotic drugs), while in Sentence 2, it highlights the perceived utility or value of ballet.\n\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The two sentences convey different meanings of the word \"use\". In Sentence 1, \"use\" refers to the act or purpose for which something is employed. In contrast, Sentence 2 uses \"use\" in a more rhetorical sense, implying that the beauty of ballet is negligible if it has no practical or functional value.\n\nLabel: 0"
     },
     {
         "word": "wildness",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The two sentences convey a sense of unconventional and untamed nature, with the target word \"wildness\" being used to describe an aspect of someone's personality or behavior.\n\nExplanation: Both sentences use \"wildness\" to imply a sense of freedom, lawlessness, or unbridled energy. However, Sentence 1 focuses on the individual's inherent nature, while Sentence 2 uses it as a metaphor for rebellion against societal norms.\n\nLabel: 1"
+        "llm_response": "The two sentences convey similar meanings related to the concept of untamed or uncontrolled nature, particularly in human behavior. While \"wildness\" itself remains consistent throughout, its application and context differ between the sentences.\n\nIn Sentence 1, \"wildness\" is used to describe Liza's innate tendency, suggesting a natural inclination towards spontaneity, unpredictability, or perhaps even recklessness.\n\nIn Sentence 2, \"wildness\" refers to an element of rebelliousness or nonconformity in the individual's behavior. It highlights their resistance against societal norms and expectations, implying a desire for freedom from constraints.\n\nThe main difference lies in the focus: one emphasizes Liza's inherent nature (tendency), while the other focuses on her reaction to external pressures (behavior as protest).\n\nLabel: 1"
     },
     {
         "word": "clearance",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The two sentences convey similar meanings, with \"clearance\" referring to permission or authorization in both cases. In Sentence 1, it's about the plane being allowed to land, while in Sentence 2, it's about obtaining permission to proceed.\n\nLabel: 1"
+        "llm_response": "The two sentences convey similar meanings, with both referring to the permission or authorization for a plane to take off, land, or proceed with its flight. However, Sentence 1 implies that the clearance was given beforehand, while Sentence 2 suggests that it was received after a request.\n\n Label: 1"
     },
     {
         "word": "term",
         "true_label": 1,
-        "pred_label": 1,
-        "llm_response": "The meanings of the target word 'term' are quite similar in both sentences, with Sentence 1 referring to a period of imprisonment and Sentence 2 referring to a specific time or duration allowed for payment of debts.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target words 'term' in the two sentences have different meanings. In the first sentence, 'term' refers to a period of time spent in a prison. However, in the second sentence, it refers to a specific amount or limit allowed for something, such as discharging a debt.\n\nLabel: 0"
     },
     {
         "word": "leave",
         "true_label": 1,
-        "pred_label": 1,
-        "llm_response": "The target word 'leave' has a similar meaning in both sentences, as it is used to convey the idea of abandoning or departing from something.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target word \"leave\" in Sentence 1 implies to depart or abandon something or someone, whereas in Sentence 2, it means to be present or remain as an aftereffect of the product. Although related, these meanings are distinct and differ significantly.\n\nLabel: 0"
     },
     {
         "word": "drive",
         "true_label": 0,
-        "pred_label": 0,
-        "llm_response": "The meaning of the word \"drive\" in these two sentences is quite different. In Sentence 1, \"drive\" refers to navigating a vehicle through a forest, whereas in Sentence 2, it means to pursue or move away from something, often with determination or strong feelings. The context and connotation are distinct.\n\nLabel: 0"
+        "pred_label": 1,
+        "llm_response": "The target word 'drive' has a similar meaning in both sentences, with Sentence 1 referring to operating a vehicle through a forest and Sentence 2 referring to working hard on one's research. However, there seems to be a slight difference in connotation, as the second sentence implies that the act of driving away is related to emotional or psychological departure.\n\nLabel: 1"
     },
     {
         "word": "keep",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target words \"keep\" and its usage in the given sentences have similar meanings, but the context is slightly different. In both cases, the verb \"keep\" means to maintain control over one's emotions or behavior.\n\n Sentence 1, \"Keep your cool,\" implies maintaining a calm and composed demeanor, often in a challenging situation. It can also be interpreted as resisting the temptation to behave impulsively or emotionally.\n\n Sentence 2, \"Keep your temper,\" conveys a sense of controlling one's anger or ire, particularly when faced with provocation or frustration. The word \"temper\" here refers to one's emotional state, which is closely related to \"cool.\"\n\n Although there's a subtle distinction between the two expressions, the underlying idea is that keeping something means maintaining stability and composure in an emotionally charged context.\n\n Label: 1"
+        "llm_response": "Both sentences use the word \"keep\" in a context related to emotional control, with \"cool\" referring to remaining calm and composed, and \"temper\" referring to one's anger or irritability.\n\nLabel: 1"
     },
     {
         "word": "keep",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"keep\" in Sentence 1 is to store or retain something, in this case, food, for a period of time.\n\nThe meaning of the word \"keep\" in Sentence 2 is to reserve or hold onto something, in this case, batteries, even though it's not typically stored in the freezer. \n\nAlthough the contexts are different, both sentences use \"keep\" with a sense of preservation or storage, but the usage is slightly divergent due to the unusual location of storing batteries in the freezer.\n\n Label: 1"
+        "llm_response": "The target word \"keep\" has similar meanings in both sentences, specifically related to storing or preserving something.\n\nLabel: 1"
     },
     {
         "word": "stand",
         "true_label": 0,
-        "pred_label": 0,
-        "llm_response": "The meaning of the word \"stand\" in Sentence 1 is more closely related to its idiomatic use, where it means to have an opinion or a position on something. In contrast, the word \"stand\" in Sentence 2 has a more literal and physical meaning, referring to a solid support for holding objects.\n\n Label: 0"
+        "pred_label": 1,
+        "llm_response": "The target word \"stand\" has a similar meaning in both sentences, as it is used to convey a sense of position or attitude (\"Where do you stand on the war?\"), but also can imply being still or stationary (\"Standing water\"). However, the usage context and connotation are slightly different between the two sentences.\n\nLabel: 1"
     },
     {
         "word": "talk",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"talk\" in both sentences is very similar, as it refers to the act of communicating or exchanging information through language, albeit in different contexts. In Sentence 1, \"talk\" means to converse with someone using non-verbal cues, while in Sentence 2, it means that the baby is able to engage in verbal conversation.\n\nLabel: 1"
+        "llm_response": "The target word \"talk\" in both sentences primarily means \"to communicate\" or \"to converse\". In Sentence 1, it describes the ability of the speaker to convey a message despite language barriers. In Sentence 2, it refers to the early linguistic abilities of the baby.\n\nLabel: 1"
     },
     {
         "word": "see",
         "true_label": 1,
-        "pred_label": 0,
-        "llm_response": "The meanings of the target word \"see\" in both sentences are quite different, with Sentence 1 implying the ability to perceive or notice something visually, and Sentence 2 implying the lack of vision altogether.\n\n Label: 0"
+        "pred_label": 1,
+        "llm_response": "The meaning of the target word \"see\" in both sentences is quite similar, as it implies the ability to perceive something with one's eyes or sense. While Sentence 1 emphasizes the importance of being observant to notice fine details, Sentence 2 highlights the loss of vision, which can be considered a complete opposite scenario. However, the core meaning of seeing remains consistent in both sentences.\n\nLabel: 1"
     },
     {
         "word": "range",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the target word 'range' is somewhat similar, but with a nuance difference in its context.\n\nIn Sentence 1, 'range' refers to a span or extent of something (the losses), often implying a range of possibilities or estimates. In this case, the meaning leans more towards an abstract concept.\n\nIn Sentence 2, 'ranged' is a verb form that indicates a sequence or progression in time or space (the instruments moving from one type to another). The meaning here focuses on movement and sequencing rather than just a span or extent.\n\nDespite these subtleties, I would classify the meanings of 'range' as similar, but with an emphasis on context. \n\nLabel: 1"
+        "llm_response": "The two sentences convey similar meanings, with 'range' used to describe a variety of options or possibilities.\n\nLabel: 1"
     },
     {
         "word": "luck",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The two sentences convey similar meanings, as both describe fortunate events that have a significant impact on someone's life.\n\nLabel: 1"
+        "llm_response": "The target words \"luck\" in both sentences have similar meanings, as they both relate to fortunate or advantageous events that occur by chance.\n\nLabel: 1"
     },
     {
         "word": "see",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The meaning of the target word \"see\" is similar in both sentences. In Sentence 1, it implies a desire for information or visual perception. In Sentence 2, it can be interpreted as either seeking permission or authorization or simply asking if someone has noticed something.\n\n\nLabel: 1"
+        "llm_response": "The target words \"see\" have a similar meaning in both sentences, as they are used to convey the idea of observing or perceiving something.\n\nLabel: 1"
     },
     {
         "word": "work",
         "true_label": 1,
         "pred_label": 0,
-        "llm_response": "The meaning of the target word \"work\" is not entirely similar in the two sentences. In Sentence 1, \"work\" implies an activity or job that someone does for income. However, in Sentence 2, \"work\" is used more broadly to imply a lack of employment or occupation, which can also include not being able to find a job or be unable to support oneself financially.\n\nSince the meaning of \"work\" has a significant distinction between the two sentences, I would respond with:\n\n0 \n\nLabel: 0"
+        "llm_response": "The target word \"work\" has different meanings in the two sentences, with Sentence 1 implying that the person did not engage in professional employment due to their financial situation, whereas Sentence 2 implies that the person chose not to work at all.\n\nLabel: 0"
     },
     {
         "word": "move",
         "true_label": 0,
-        "pred_label": 0,
-        "llm_response": "The meaning of the word \"move\" is somewhat similar, but it also has connotations of changing one's position or location.\n\nExplanation: In Sentence 1, \"to move in a matter\" implies making an effort or taking action to address an issue or concern. The verb \"move\" here conveys the idea of acting upon something. \n\nIn contrast, Sentence 2, where \"She moved the queen closer to the centre of the board\", uses the word \"move\" as a verb meaning to cause something (the queen) to change its location. This usage implies physical action.\n\nLabel: 0"
+        "pred_label": 1,
+        "llm_response": "The target word \"move\" has a similar meaning in both sentences, particularly when considering actions of physical or directional change. In Sentence 1, \"to move in a matter\" implies taking action on something regarding its state or status, which can be interpreted as changing or taking an action about the subject matter. In Sentence 2, \"she moved the queen closer to the centre of the board\" explicitly shows a physical movement of an object (the queen) from one position to another.\n\nLabel: 1"
     },
     {
         "word": "use",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target words 'use' have similar meanings in both sentences, with Sentence 1 implying that something can be utilized or employed for a specific purpose (solving the problem), and Sentence 2 using the word in the context of language usage or habitual practice (Spanish at home).\n\nLabel: 1"
+        "llm_response": "The target words 'use' and its variants in both sentences have similar meanings, which include utilizing or employing something for a particular purpose.\n\nLabel: 1"
     },
     {
         "word": "feel",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target word 'feel' has a similar meaning in both sentences, as it is used to convey an innate sense or aptitude for something. In the first sentence, \"a feel for music\" implies that someone has a natural talent or sensitivity towards music. Similarly, in the second sentence, \"a feel for animals\" suggests that someone has a natural inclination or affinity towards animals.\n\nLabel: 1"
+        "llm_response": "The two sentences convey similar meanings, with the target word \"feel\" being used to describe an inherent ability or affinity for something. In both cases, it implies that the person has a natural inclination or talent for a particular domain.\n\nLabel: 1"
     },
     {
         "word": "fall",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target words 'fall' have somewhat similar meanings, but the context and connotations are different. In Sentence 1, 'fall' implies being deceived or misled by someone who pretends to be what they're not. In Sentence 2, 'fall' means losing popularity or influence.\n\nLabel: 1"
+        "llm_response": "The target word \"fall\" has a similar meaning in both sentences, as it can imply being deceived or misled (sentence 1), and also means to lose popularity or go out of favor (sentence 2).\n\nLabel: 1"
     },
     {
         "word": "process",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The two sentences convey somewhat similar meanings, but with a subtle difference in context. In Sentence 1, \"process\" refers to the act of treating or working with iron, often implying a physical transformation (e.g., heating and shaping it). \n\nIn contrast, Sentence 2 uses \"process\" as an action performed on the applicants, likely referring to an evaluation, screening, or examination of their qualifications. While both sentences utilize the word \"process\", they describe distinct activities with slightly different connotations.\n\nLabel: 1"
+        "llm_response": "The target word \"process\" can be used to refer to both an action (as in Sentence 1) and a series of steps or tasks (as in Sentence 2). In both cases, the word is being used as a verb, and it is not a direct object noun in either sentence. The meaning of the word is similar between the two sentences.\n\nLabel: 1"
     },
     {
         "word": "carry",
         "true_label": 1,
-        "pred_label": 0,
-        "llm_response": "Both sentences use \"carry\" to mean transporting something, but in Sentence 1, it emphasizes the responsibility or obligation to transport the gear, whereas in Sentence 2, it describes a specific action of physically moving the package.\n\nThe meaning is somewhat similar, but not identical.\n\nLabel: 0"
+        "pred_label": 1,
+        "llm_response": "The target word 'carry' has a similar meaning in both sentences, as it implies physical transport or bearing of an object. \n\nLabel: 1"
     },
     {
         "word": "check",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the target word 'check' has similar connotations across both sentences, particularly in terms of verification or confirmation (as in Sentence 1) and timing or scheduling (as in Sentence 2). Although the context is slightly different, the core concept of checking or inspecting something is present in both instances.\n\nLabel: 1"
+        "llm_response": "The target words \"check\" in both sentences are used as verbs, with similar meanings related to verifying or inspecting something. In Sentence 1, \"check into\" implies entering a situation or taking action, whereas in Sentence 2, \"check the time\" means to verify or look at the current time.\n\nLabel: 1"
     },
     {
         "word": "session",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "After analyzing the two sentences, I conclude that the meaning of the word 'session' is similar in both contexts.\n\nThe first sentence refers to a scheduled meeting or training for participants, which implies a focus on learning or improvement. In contrast, the second sentence uses 'session' to refer to a specific recording or practice session with musicians, highlighting the importance of capturing high-quality sound or performances. \n\nAlthough the context is different, the core concept of 'session' remains consistent, conveying the idea of a focused or specialized period of activity.\n\nLabel: 1"
+        "llm_response": "The meaning of the target word 'session' in both sentences is similar, with it referring to an organized meeting or gathering, often used in contexts such as business, education, or music. In Sentence 1, a training session implies a structured educational activity, while in Sentence 2, it refers to a recording or rehearsal session with musicians.\n\n\nLabel: 1"
     },
     {
         "word": "empty",
         "true_label": 1,
-        "pred_label": 1,
-        "llm_response": "The meaning of the word \"empty\" in both sentences is quite similar, as it implies a lack or absence of content, substance, or quantity. In Sentence 1, the focus is on removing something (water) from a container, while in Sentence 2, the emphasis is on having no water present.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The two sentences convey related ideas, but with slightly different nuances. In Sentence 1, \"empty\" implies removing content from a container (the well or cistern), whereas in Sentence 2, it emphasizes the absence of content or water. The meaning is not identical, as \"empty\" can also mean devoid of people or objects in other contexts.\n\nLabel: 0"
     },
     {
         "word": "operation",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The meaning of the word \"operation\" in both sentences is similar, as it refers to a process or set of actions being carried out.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The two sentences convey related but distinct meanings of the word \"operation\". The first sentence uses \"operation\" to refer to a complex, coordinated activity or process, often involving multiple parties or entities. In this context, the meaning is more abstract and relates to a larger-scale endeavor.\n\nOn the other hand, the second sentence employs \"operations\" (note the plural form) to describe a specific mathematical function that can be performed at a high frequency. This usage implies a focus on the technical aspect of processing large amounts of data.\n\nGiven these differences in context and application, I would conclude that the two sentences don't convey exactly the same meaning.\n\nLabel: 0"
     },
     {
         "word": "heart",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The meaning of the target word 'heart' is somewhat similar in both sentences, as it can refer to a physical organ or a central part of something.\n\nIn Sentence 1, \"the heart and soul\" is an idiomatic expression that refers to the core values or essence of a person or organization. The phrase is metaphorical, using the heart as a symbol for emotional or spiritual centering.\n\nIn Sentence 2, \"into the heart of the struggle\" means to face or confront the main challenge or difficulty head-on. Again, the word \"heart\" is used metaphorically, this time to convey a sense of central involvement or courage.\n\nWhile there might be some subtle differences in interpretation depending on context, the meaning of 'heart' can be considered similar across both sentences.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The two sentences use the word \"heart\" to convey a sense of central importance or core aspect, particularly in relation to a cause or issue (\"the heart of the struggle\") and a person's emotional center or essential nature (\"the heart of the Republican Party\"). While the meanings are related, they differ in context and connotation. \n\nIn Sentence 1, \"heart\" implies the symbolic or figurative sense of an individual's most vital aspect or driving force. In Sentence 2, \"heart\" refers to a physical location (the center) where one faces a challenge.\n\nLabel: 0"
     },
     {
         "word": "play",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "After analyzing the two sentences, I would classify them as having similar meanings.\n\nThe first sentence, \"Play the stock market\", is using the verb \"play\" in a idiomatic expression meaning to engage in or participate in the trading of stocks. This usage is common and widely understood.\n\nThe second sentence, \"Who's playing now?\", is using the verb \"playing\" (present participle form) in an interrogative context, asking about someone's current activity or engagement in a particular game, sport, or entertainment activity. Again, this usage is idiomatic and has a clear meaning.\n\nWhile there may be some ambiguity between these two sentences, they are not fundamentally different in terms of their meanings, but rather in the specific contexts in which the verb \"play\" or its variants are used.\n\nLabel: 1"
+        "llm_response": "The target words \"play\" in both sentences have a similar meaning, but with slightly different contexts. In Sentence 1, \"play\" is used to mean engaging in or participating in an activity related to investing in stocks. In Sentence 2, \"playing\" is a verb form of the word that means performing or participating in an activity, often in a casual or recreational manner.\n\nWhile the meanings are not identical, both sentences convey the idea of engagement or participation, making the meaning of the target word similar across both sentences.\n\nLabel: 1"
     },
     {
         "word": "speech",
         "true_label": 1,
-        "pred_label": 1,
-        "llm_response": "The meaning of the target word 'speech' is similar in both sentences.\n\nExplanation: In both sentences, 'speech' refers to the way someone communicates or speaks, which can include their language, tone, and dialect.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "Both sentences refer to the way someone talks, with Sentence 1 focusing on the lack of regional expressions and Sentence 2 highlighting the presence of an accent.\n\nAlthough both sentences are related to language usage, they convey different nuances. Sentence 1 emphasizes the absence of distinctive features associated with southern American English, while Sentence 2 focuses on a subtle variation in pronunciation (accent) that may not necessarily imply a specific dialect or regional identity.\n\nDespite these differences, the core idea of discussing and paying attention to someone's way of speaking is present in both sentences. However, their emphasis and connotations differ.\n\nLabel: 0"
     },
     {
         "word": "make",
         "true_label": 0,
         "pred_label": 0,
-        "llm_response": "The target word \"make\" has a different meaning in the two sentences, as \"We should make Cincinnati by 7 tonight\" implies achieving or reaching a location, whereas \"She was made president of the club\" implies being appointed or elected to a position.\n\nLabel: 0"
+        "llm_response": "The target words 'make' and its usage in both sentences have distinct meanings. In Sentence 1, 'make' implies creating or producing something (in this case, a Cincinnati), whereas in Sentence 2, 'made' is an action verb indicating creation, formation, or origination of someone as president.\n\n Label: 0"
     },
     {
         "word": "point",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target words \"point\" in both sentences have similar meanings, particularly when referring to a specific location or aspect of something (e.g., missing the main idea of a joke). However, they also have different connotations and uses depending on the context. In the first sentence, \"point\" implies a lack of understanding or interpretation, while in the second sentence, it refers to a physical attribute of an object.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "Explanation: Although the sentences are grammatically correct, they use the target word \"point\" in different contexts and with different connotations. In Sentence 1, \"point\" refers to a moment or aspect of something that is misunderstood or overlooked. In contrast, Sentence 2 uses \"points\" as a plural noun, referring to the sharp edges of teeth.\n\nLabel: 0"
     },
     {
         "word": "post",
         "true_label": 0,
-        "pred_label": 1,
-        "llm_response": "The target words 'post' have similar meanings, especially in the context of mail. In Sentence 1, \"catch the post\" means to catch a letter or package being delivered by postal service. Similarly, in Sentence 2, \"any post\" likely refers to any material used for posting messages.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target words \"post\" in both sentences have a similar meaning related to mail or communication. In Sentence 1, it refers to a postal delivery, and in Sentence 2, it refers to a piece of furniture. However, the context is different, with one being an action (delivering mail) and the other being an object.\n\nLabel: 0"
     },
     {
         "word": "unit",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The two sentences convey meaning that is similar, but not identical.\n\nIn Sentence 1, \"unit\" refers to a fundamental building block or element in language, often used to describe phonemes or morphemes.\n\nIn Sentence 2, \"units\" likely refers to individual components of something (e.g., a system or structure), possibly in the context of management or organization.\n\nThe meaning is related but distinct; however, both concepts share a common root in the idea of smaller components within a larger whole. \n\nLabel: 1"
+        "llm_response": "The target word \"unit\" in both sentences refers to an individual component or part, with Sentence 1 describing it as a fundamental building block of language and Sentence 2 using it in a context related to quantities or measurements.\n\nLabel: 1"
     },
     {
         "word": "notice",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"notice\" is being similar, but its usage context and scope can vary depending on the sentence.\n\nIn Sentence 1, \"You didn't give me enough notice,\" the word \"notice\" implies a warning or an opportunity to act before something happens, often related to time constraints (e.g., deadlines, appointments).\n\nIn Sentence 2, \"A notice of sale,\" the word \"notice\" refers to an official announcement or a formal declaration, typically in a legal context.\n\nWhile both sentences utilize the concept of a notice, they convey different shades of meaning due to their respective contexts.\n\nLabel: 1"
+        "llm_response": "The target words 'notice' in both sentences convey a sense of alerting or informing the listener about an event or situation that has occurred or will occur. In Sentence 1, it implies providing sufficient time for someone to react or prepare before a certain action happens, such as a deadline or a change. In Sentence 2, it refers to a formal announcement or a written statement that is displayed in a public place.\n\nWhile the meanings of 'notice' in both sentences are related, they also have distinct connotations and contexts. The first sentence implies a more practical or everyday concern, whereas the second sentence has a more formal or commercial tone.\n\nLabel: 1"
     },
     {
         "word": "size",
         "true_label": 1,
-        "pred_label": 1,
-        "llm_response": "The meaning of the word \"size\" is similar to both sentences, as it refers to a quantifiable aspect or magnitude of something.\n\nLabel: 1"
+        "pred_label": 0,
+        "llm_response": "The target word \"size\" can be used to describe either a physical measurement or a quantity, such as the number or amount of something. In Sentence 1, \"any size\" implies a lack of specificity regarding the city's population, area, or other characteristic, suggesting that the speaker is referring to any settlement, no matter how small.\n\nIn contrast, in Sentence 2, \"the size of the bill\" refers to the actual physical measurement of the invoice, which implies an evaluation of its quantity or amount. This usage highlights a key difference between the two sentences: one uses \"size\" to describe a qualitative aspect (quantity), while the other uses it to describe a quantitative aspect (physical measurement).\n\nLabel: 0"
     },
     {
         "word": "set",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"set\" in both sentences is similar, as it is used to indicate a fixed position or location.\n\nLabel: 1 \n\nExplanation: In Sentence 1, \"set\" likely refers to a geographical or spatial setting, indicating that the country has a fixed location. In Sentence 2, \"set\" is part of an idiomatic expression \"smart set\", which means a group of people who are highly intelligent and well-informed. The meaning of \"set\" in both sentences is context-dependent, but it conveys a sense of arrangement or positioning."
+        "llm_response": "The target words 'set' in both sentences refer to the act of positioning or placing something in a specific location, resulting in similar meanings.\n\n\nLabel: 1"
     },
     {
         "word": "head",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The two sentences convey the same meaning, which is a quantity or number of animals (cattle in this case). The use of \"head\" as an abbreviation for \"heads\" or \"number of heads\" is a common practice in counting livestock.\n\nLabel: 1"
+        "llm_response": "The target word \"head\" has the same meaning in both sentences, specifically referring to a unit of measurement for counting animals (e.g., a group or herd). The context is different (cattle vs. horses), but the word itself retains its core meaning.\n\nLabel: 1"
     },
     {
         "word": "get",
         "true_label": 0,
         "pred_label": 1,
-        "llm_response": "The target words \"get\" in both sentences have similar meanings, but their usage is slightly different. In Sentence 1, \"Did you get it?\" implies receiving or obtaining something (e.g., an object), whereas in Sentence 2, \"What did you get at the toy store?\" suggests acquiring or purchasing something (e.g., a toy) during a specific event or activity. While the core meaning is similar, there's a subtle distinction between the two contexts.\n\nLabel: 1"
+        "llm_response": "The target word \"get\" has a similar meaning in both sentences, as it can refer to obtaining or acquiring something.\n\nLabel: 1"
     },
     {
         "word": "admit",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The meaning of the word \"admit\" is similar, but with some nuance. In Sentence 1, \"to admit\" implies to accept or acknowledge something, often reluctantly or begrudgingly. It can also refer to the act of allowing someone entry into a place.\n\nIn Sentence 2, \"She admitted us here\" implies that she has given permission for you to enter this location, likely as a host or an authority figure.\n\nThe main difference lies in the context and connotation: the first sentence suggests a more introspective or hesitant acceptance, while the second sentence implies a more straightforward and formal allowance. \n\nLabel: 1"
+        "llm_response": "The two sentences convey similar meanings, both related to accepting something as true or real. In Sentence 1, \"admit\" means to allow oneself to consider a difficult idea or emotion, whereas in Sentence 2, it refers to the act of acknowledging or receiving someone (in this case, 'us') into a space or community.\n\nLabel: 1"
     },
     {
         "word": "hold",
         "true_label": 1,
-        "pred_label": 0,
-        "llm_response": "The target word \"hold\" in both sentences implies a sense of continuity, stability, and retention, but the grammatical function is slightly different.\n\nIn Sentence 1, \"to hold true\" means to be accurate or faithful to something. It's more about being correct or honest.\n\nIn Sentence 2, \"the weather held\" is a phrase used in meteorology to describe when weather conditions remain steady without significant changes. Here, \"held\" is an imperative verb form indicating that the condition remained stable.\n\nAlthough the meanings are related, they differ slightly in connotation and usage. Therefore, I would classify them as having different meanings rather than similar ones.\n\n\nLabel: 0"
+        "pred_label": 1,
+        "llm_response": "The target word \"hold\" has a similar meaning in both sentences, specifically as a verb, where it implies to maintain or continue something (true or physical). In Sentence 1, \"to hold true\" means to be accurate or genuine. In Sentence 2, \"the weather held\" means that the forecast was correct and no significant changes occurred.\n\nLabel: 1"
     },
     {
         "word": "pain",
         "true_label": 0,
         "pred_label": 0,
-        "llm_response": "The meaning of the target word 'pain' is somewhat similar, but not identical, in both sentences. In Sentence 1, 'pain' refers to an emotional state resulting from loneliness, whereas in Sentence 2, it specifically describes a physical sensation. Although both meanings involve the concept of pain, they are not equivalent.\n\n Label: 0"
+        "llm_response": "The target word \"pain\" in Sentence 1 refers to the emotional suffering caused by loneliness, whereas in Sentence 2, it specifically refers to a physical sensation or discomfort, likely due to an injury or illness.\n\nWhile both sentences use the word \"pain\", their meanings are not identical due to the different contexts and connotations. The first sentence implies a more abstract and emotional experience, while the second sentence describes a physical condition.\n\nLabel: 0"
     },
     {
         "word": "krona",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target word \"krona\" has a similar meaning in both sentences, as it refers to a unit of currency.\n\nLabel: 1"
+        "llm_response": "The target word \"krona\" has a similar meaning in both sentences, as it refers to a unit of currency and is used to express value or cost.\n\nLabel: 1"
     },
     {
         "word": "tomorrow",
         "true_label": 1,
         "pred_label": 1,
-        "llm_response": "The target words 'tomorrow' in the two sentences have somewhat similar meanings, as they both refer to the future time period that follows the present moment.\n\nLabel: 1"
+        "llm_response": "The target word 'tomorrow' has similar meanings in both sentences, as it refers to the day after today. The first sentence uses 'tomorrow' to express hope or anticipation for a future event, while the second sentence uses 'tomorrow' to describe a time period or era.\n\nLabel: 1"
     }
 ]
