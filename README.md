@@ -78,8 +78,8 @@ We conducted detailed embedding analysis using:
 
 | Model | Template | Accuracy | Precision | Recall | F1 Score |
 |-------|----------|----------|-----------|---------|-----------|
-| GPT-4 Turbo | T0 | 0.69 | 0.85 | 0.46 | 0.60 |
-|             | T1 | 0.69 | 0.85 | 0.46 | 0.60 |
+| GPT-4 Turbo | T0 | 0.66 | 0.83 | 0.40 | 0.54 |
+|             | T1 | 0.71 | 0.76 | 0.62 | 0.68 |
 | GPT-4       | T0 | 0.65 | 0.78 | 0.42 | 0.55 |
 |             | T1 | 0.73 | 0.73 | 0.72 | 0.73 |
 | GPT-3.5     | T0 | 0.57 | 0.77 | 0.20 | 0.32 |
@@ -89,7 +89,23 @@ We conducted detailed embedding analysis using:
 | LLAMA 3.2   | T0 | 0.52 | 0.57 | 0.16 | 0.25 |
 |             | T1 | 0.64 | 0.61 | 0.80 | 0.69 |
 
-*Note: T0 and T1 represent Template 0 and Template 1 respectively.*
+*Note: T0 and T1 represent Template 0 and Template 1 respectively. The metrics demonstrate that GPT-4 Turbo achieves the highest precision (0.83) with Template 0, while Template 1 generally leads to more balanced performance across metrics.*
+
+Our analysis reveals several key insights:
+
+1. GPT-4 Turbo shows strong performance with both templates:
+   - Template 0 achieves exceptional precision (0.83) but lower recall (0.40)
+   - Template 1 delivers more balanced metrics with improved recall (0.62) and F1 score (0.68)
+
+2. Comparing across models:
+   - GPT-4 maintains the most consistent performance across metrics, especially with Template 1
+   - GPT-4 Turbo excels in precision but shows room for improvement in recall
+   - The open-source models demonstrate competitive performance, particularly with Template 1
+   - LLAMA 3.2 achieves the highest recall score (0.80) with Template 1
+
+3. Template patterns:
+   - Template 1 generally produces more balanced metrics across all models
+   - Template 0 tends to favor precision over recall
 
 ## References
 
